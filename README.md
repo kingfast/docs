@@ -2,9 +2,13 @@
 
 #### 目前推荐使用ssr订阅和v2ray订阅。
 
+<p class="tip">你的<strong>订阅链接</strong>非常重要，不支持修改，务必不要泄露。</p>
+
 >使用教程地址：官网地址后面加`/docs`
 
->[备用教程地址](https://kingfast.github.io/docs)
+>备用教程地址：[https://kingfast.github.io/docs](https://kingfast.github.io/docs)
+
+> 对教程有疑问或者建议请去官网提交工单。
 
 - [SSR订阅使用教程](/ssr/)
     - [windows](/ssr/windows.md)
