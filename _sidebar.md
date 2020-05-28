@@ -18,3 +18,10 @@
     - [ios](/trojan/ios.md)
     - [android](/trojan/android.md)
     - [linux](/trojan/linux.md)
+
+- [clash订阅使用教程](/clash/)
+    - [windows](/clash/windows.md)
+    - [macOs](/clash/macOs.md)
+    - [ios](/clash/ios.md)
+    - [android](/clash/android.md)
+    - [linux](/clash/linux.md)

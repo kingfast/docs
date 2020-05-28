@@ -1,5 +1,7 @@
 # v2ray订阅使用教程
 
+>目前推荐用v2ray线路。
+
 - [windows教程](/v2ray/windows.md)
 - [macOs教程](/v2ray/macOs.md)
 - [ios教程](/v2ray/ios.md)

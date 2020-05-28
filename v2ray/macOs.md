@@ -25,7 +25,7 @@ sudo spctl --master-disable
 
 https://file.o4o.win/v2ray/macOS/V2rayU.dmg
 
-http://tmp.o1o.win/ltcSf/V2rayU.dmg
+http://file.helloking.win/v2ray/macOS/V2rayU.dmg
 
 
 #### 3、复制 `产品管理 > 管理`  的 `v2ray订阅链接`

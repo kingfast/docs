@@ -1,5 +1,11 @@
 # kingfast使用教程
 
+#### 目前推荐使用ssr订阅和v2ray订阅。
+
+>使用教程地址：官网地址后面加`/docs`
+
+>[备用教程地址](https://kingfast.github.io/docs)
+
 - [SSR订阅使用教程](/ssr/)
     - [windows](/ssr/windows.md)
     - [macOs](/ssr/macOs.md)
@@ -20,3 +26,10 @@
     - [ios](/trojan/ios.md)
     - [android](/trojan/android.md)
     - [linux](/trojan/linux.md)
+
+- [clash订阅使用教程](/clash/)
+    - [windows](/clash/windows.md)
+    - [macOs](/clash/macOs.md)
+    - [ios](/clash/ios.md)
+    - [android](/clash/android.md)
+    - [linux](/clash/linux.md)

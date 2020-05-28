@@ -4,9 +4,9 @@
 
 客户端下载地址
 
-https://file.o4o.win/v2ray/android/v2rayNG_1.1.14.apk
+https://file.o4o.win/v2ray/android/v2rayNG_1.2.6.apk
 
-http://tmp.o1o.win/dbLFW/v2rayNG_1.1.14.apk
+http://file.helloking.win/v2ray/android/v2rayNG_1.2.6.apk
 
 #### 2、复制 产品管理 > 管理  的 v2ray订阅链接
 
