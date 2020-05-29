@@ -8,6 +8,8 @@ https://file.o4o.win/v2ray/android/v2rayNG_1.2.6.apk
 
 http://file.helloking.win/v2ray/android/v2rayNG_1.2.6.apk
 
+https://github.com/2dust/v2rayNG/releases （官方最新版本）
+
 #### 2、复制 产品管理 > 管理  的 v2ray订阅链接
 
 > 打开用户中心的产品管理，前往套餐详情页复制订阅链接，在`产品管理 > 管理`那里，v2ray订阅链接，`点我复制`。

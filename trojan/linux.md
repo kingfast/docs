@@ -6,4 +6,4 @@
 
 linux客户端下载地址
 
-https://github.com/TheWanderingCoel/Trojan-Qt5/releases
+https://github.com/TheWanderingCoel/Trojan-Qt5/releases （官方最新版本）

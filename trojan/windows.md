@@ -10,7 +10,7 @@ https://file.o4o.win/trojan/windows/Trojan-Qt5-Windows.zip
 
 http://file.helloking.win/trojan/windows/Trojan-Qt5-Windows.zip
 
-https://github.com/TheWanderingCoel/Trojan-Qt5/releases
+https://github.com/TheWanderingCoel/Trojan-Qt5/releases  （官方最新版本）
 
 #### 2、复制 产品管理 > 管理  的 trojan订阅链接  ，按照下面步骤设置
 

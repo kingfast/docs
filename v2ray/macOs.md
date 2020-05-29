@@ -27,6 +27,8 @@ https://file.o4o.win/v2ray/macOS/V2rayU.dmg
 
 http://file.helloking.win/v2ray/macOS/V2rayU.dmg
 
+https://github.com/yanue/V2rayU/releases/ （官方最新版本）
+
 
 #### 3、复制 `产品管理 > 管理`  的 `v2ray订阅链接`
 

@@ -8,4 +8,4 @@ macOs客户端下载地址
 
 https://file.o4o.win/trojan/macOs/Trojan-Qt5-macOS.dmg
 
-https://github.com/TheWanderingCoel/Trojan-Qt5/releases
+https://github.com/TheWanderingCoel/Trojan-Qt5/releases （官方最新版本）
