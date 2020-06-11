@@ -65,6 +65,9 @@ https://shimo.im/docs/gcrf4W32B44qRegj/
 https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf
 ```
 
+>需要了解更多关于配置规则，可以看下面这个项目
+
+https://github.com/h2y/Shadowrocket-ADBlock-Rules
 
 
 
