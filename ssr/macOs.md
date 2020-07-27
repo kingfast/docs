@@ -8,7 +8,7 @@ https://kingfast.cc/buy
 
 如果上面的网址打不开看下面的教程：
 
-https://shimo.im/docs/gcrf4W32B44qRegj/ 
+https://www.zybuluo.com/hellozubuluo/note/1728024
 
 
 

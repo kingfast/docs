@@ -7,7 +7,7 @@ https://kingfast.cc/buy
 
 如果上面的网址打不开看下面的教程：
 
-https://shimo.im/docs/gcrf4W32B44qRegj/ 
+https://www.zybuluo.com/hellozubuluo/note/1728024
 
 #### 1、下载客户端版本（必须下载右边的版本👉） [点我下载](https://file.o4o.win/Android/3.5.1.1.apk)   (用手机点击下载，不要用电脑下载后传到手机)
 
