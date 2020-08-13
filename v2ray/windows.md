@@ -4,9 +4,9 @@
 
 > 客户端下载地址:
 
-https://file.o4o.win/v2ray/windows/v2rayN-Core.zip
+https://file.o4o.win/v2ray/windows/v2rayN-Core.zip (推荐)
 
-http://file.helloking.win/v2ray/windows/v2rayN-Core.zip
+http://file.helloking.win/v2ray/windows/v2rayN-Core.zip (推荐)
 
 https://github.com/2dust/v2rayN/releases （官方最新版本）
 
@@ -18,6 +18,8 @@ https://github.com/2dust/v2rayN/releases （官方最新版本）
 ![](/img/v1.png)
 ![](/img/v2.png)
 ![](/img/v3.png)
+
+!> 点更新订阅之前，需要先关闭http代理。
 
 #### 3、右击屏幕右下角的图标，然后开启pac模式或者全局模式
 
