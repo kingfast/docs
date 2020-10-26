@@ -23,12 +23,13 @@ sudo spctl --master-disable
 
 > mac客户端下载地址
 
-https://file.o4o.win/v2ray/macOS/V2rayU.dmg
+https://file.o4o.win/v2ray/macOS/V2rayU.dmg (推荐)
 
 http://file.helloking.win/v2ray/macOS/V2rayU.dmg
 
 https://github.com/yanue/V2rayU/releases/ （官方最新版本）
 
+![](/img/v2rayU.png)
 
 #### 3、复制 `产品管理 > 管理`  的 `v2ray订阅链接`
 
