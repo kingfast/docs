@@ -24,21 +24,22 @@ https://www.zybuluo.com/hellozubuluo/note/1728024
 
 - 2、或者可以去淘宝买一个带小火箭的美区账号，搜索“美区兑换码”，私下问卖家就行了。
 
-- 3、收集了一些购买地址（利益无关，有问题自行联系卖家，不要找我）[地址1](https://idmy.info/)  [地址2](https://llmm.net/product/) [地址3](https://fk.myue.cc/) [地址4](https://www.rocketgirls.space/product/)
+- 3、收集了一些购买地址（利益无关，有问题自行联系卖家，不要找我） [地址1](https://llmm.net/product/) [地址2](https://fk.myue.cc/) [地址3](https://www.rocketgirls.space/product/)
 
 
 **下载方法：**
 
-> 1、打开 设置 > iTunes Store与App Store (注意不是icloud!!!否则后果自负)  > 登录上面的账号
+> 1、打开 设置 > Apple ID > 媒体与购买项目 > 登录上面的账号
 
-![image (1).png](/img/ios2.png)
+![ios2-1](/img/ios2-1.png)
+![ios2-2](/img/ios2-2.png)
 
 > 2、去App Store 搜索下载 `shadowrocket`  （售价2.99$）
 
 > 3、下载完之后注销账号，就可以登录回自己的账号了
 
 
-#### 3.打开产品管理用户中心，前往套餐详情页复制订阅链接，在产品管理 > 管理 那里写着点我复制。这个app同时支持`ssr订阅链接`、`v2ray订阅链接`、`trojan订阅链接`。
+#### 3.打开产品管理用户中心，前往套餐详情页复制订阅链接，在产品管理 > 管理 那里写着点我复制。这个app同时支持`ssr订阅链接`、`v2ray订阅链接`、`trojan订阅链接`、`clash订阅链接`。
 
 ![image (2).png](/img/ios3.png)
 

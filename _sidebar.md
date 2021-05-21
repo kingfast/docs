@@ -12,16 +12,16 @@
     - [android](/v2ray/android.md)
     - [linux](/v2ray/linux.md)
 
-- [trojan订阅使用教程](/trojan/)
-    - [windows](/trojan/windows.md)
-    - [macOs](/trojan/macOs.md)
-    - [ios](/trojan/ios.md)
-    - [android](/trojan/android.md)
-    - [linux](/trojan/linux.md)
-
 - [clash订阅使用教程](/clash/)
     - [windows](/clash/windows.md)
     - [macOs](/clash/macOs.md)
     - [ios](/clash/ios.md)
     - [android](/clash/android.md)
     - [linux](/clash/linux.md)
+
+- [trojan订阅使用教程](/trojan/)
+    - [windows](/trojan/windows.md)
+    - [macOs](/trojan/macOs.md)
+    - [ios](/trojan/ios.md)
+    - [android](/trojan/android.md)
+    - [linux](/trojan/linux.md)
