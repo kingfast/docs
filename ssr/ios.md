@@ -24,7 +24,7 @@ https://www.zybuluo.com/hellozubuluo/note/1728024
 
 - 2、或者可以去淘宝买一个带小火箭的美区账号，搜索“美区兑换码”，私下问卖家就行了。
 
-- 3、收集了一些购买地址（利益无关，有问题自行联系卖家，不要找我） [地址1](https://llmm.net/product/) [地址2](https://fk.myue.cc/) [地址3](https://www.rocketgirls.space/product/)
+- 3、收集了一些购买地址（利益无关，有问题自行联系卖家，不要找我） [地址1](https://llmm.net/) [地址2](https://fk.myue.cc/) [地址3](https://www.rocketgirls.space/product/)
 
 
 **下载方法：**
