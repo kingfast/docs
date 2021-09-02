@@ -8,7 +8,7 @@
 
 >使用教程地址：官网地址后面加`/docs`
 
->备用教程地址：[https://kingfast.github.io/docs](https://kingfast.github.io/docs)
+
 
 > 对教程有疑问或者建议请去官网提交工单。
 
