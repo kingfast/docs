@@ -32,6 +32,8 @@ sudo spctl --master-disable
 
 #### 2、下载客户端版本（必须下载右边的版本👉） [点我下载](https://file.o4o.win/Mac/ShadowsocksX-NG-R8.dmg)
 
+>如果提示无法打开，是否包含恶意软件，看这个教程：[点我打开](https://www.zybuluo.com/hellozubuluo/note/1762303)
+
 ![](/img/mac3.png)
 
 
