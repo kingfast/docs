@@ -38,7 +38,7 @@ https://file.o4o.win/clash/macOS/ClashX.dmg （版本1.20.1）
 
 http://file.helloking.win/clash/macOS/ClashX.dmg （版本1.20.1）
 
-https://github.com/yichengchen/clashX/releases （官方最新版本）
+~~https://github.com/yichengchen/clashX/releases （官方最新版本不适用kingfast）~~
 
 ![](/img/clashx1.png)
 

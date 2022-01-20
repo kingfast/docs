@@ -1,6 +1,6 @@
 # trojan订阅使用教程
 
-!> 推荐使用教程提供的软件版本，最新的版本不一定兼容，这个自行测试。
+!> 目前trojan教程的软件都已不推荐使用，推荐看clash教程（包括v2ray和trojan订阅的线路）和v2ray教程。
 
 - [windows教程](/trojan/windows.md)
 - [macOs教程](/trojan/macOs.md)

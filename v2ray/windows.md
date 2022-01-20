@@ -9,7 +9,7 @@ https://file.o4o.win/v2ray/windows/v2rayN-Core.zip (推荐)
 
 http://file.helloking.win/v2ray/windows/v2rayN-Core.zip (推荐)
 
-https://github.com/2dust/v2rayN/releases （官方最新版本）
+~~https://github.com/2dust/v2rayN/releases （官方最新版本不一定适用kingfast）~~
 
 
 #### 2、复制 `产品管理 > 管理`  的 `v2ray订阅链接`

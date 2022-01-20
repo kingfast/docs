@@ -10,7 +10,7 @@ https://file.o4o.win/clash/android/app-universal-release.apk
 
 http://file.helloking.win/clash/android/app-universal-release.apk
 
-https://github.com/Kr328/ClashForAndroid/releases （官方最新版本）
+https://github.com/Kr328/ClashForAndroid/releases （官方最新版本不一定适用kingfast）
 
 > 客户端项目地址：
 
