@@ -19,7 +19,7 @@ https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0
 
 http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
 
-~~https://github.com/Fndroid/clash_for_windows_pkg/releases （官方最新版本不适用kingfast）~~
+https://github.com/Fndroid/clash_for_windows_pkg/releases （使用官方最新版本看最新公告）
 
 
 
