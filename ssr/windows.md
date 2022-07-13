@@ -2,13 +2,7 @@
 
 一字不漏的看完下面文字，按教程操作
 
-#### 1、首先打开下面网址订购一个套餐(已打开官网可直接在官网购买)
-
-https://kingfast.cc/buy
-
-如果上面的网址打不开看下面的教程：
-
-https://www.zybuluo.com/hellozubuluo/note/1728024
+#### 1、首先在官网的产品订购处订购一个套餐
 
 #### 2、下载客户端版本（必须下载右边的版本4.9.2👉） [点我下载](https://file.o4o.win/Windows/S-S-R.zip)
 
