@@ -2,17 +2,17 @@
 
 一字不漏的看完下面文字，按教程操作
 
-#### 0.首先打开下面网址订购一个套餐
+#### 0、首先在官网购买一个套餐
 
-https://kingfast.cc/buy
+<!-- https://kingfast.cc/buy
 
 如果上面的网址打不开看下面的教程：
 
-https://www.zybuluo.com/hellozubuluo/note/1728024
+https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 
 
-#### 1.先设置下电脑权限，不然安装可能不成功
+#### 1、先设置下电脑权限，不然安装可能不成功
 
 > 打开「终端」。
 
