@@ -11,15 +11,26 @@
 
 https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
-#### 2、下载客户端版本安装
+#### 2、下载客户端版本安装（推荐新版本）
 
 > 客户端下载地址:
 
-https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+![](/img/new-clash.png)
 
-http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+适用新的clash订阅： https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.19.5.exe （版本0.19.5）
 
-https://github.com/Fndroid/clash_for_windows_pkg/releases （使用官方最新版本看最新公告）
+适用新的clash订阅： http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.19.5.exe （版本0.19.5）
+
+---
+![](/img/old-clash.png)
+
+适用旧的clash订阅：https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+
+适用旧的clash订阅：http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+
+---
+
+https://github.com/Fndroid/clash_for_windows_pkg/releases （官方最新版本，不建议，不保证能用）
 
 
 

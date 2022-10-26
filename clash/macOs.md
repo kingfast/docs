@@ -30,15 +30,28 @@ sudo spctl --master-disable
 
 ![](/img/mac2.png)
 
-#### 2、下载客户端版本安装
+#### 2、下载客户端版本安装(推荐新版本)
 
 > 客户端下载地址:
 
-https://file.o4o.win/clash/macOS/ClashX.dmg （版本1.20.1）
+![](/img/new-clash.png)
 
-http://file.helloking.win/clash/macOS/ClashX.dmg （版本1.20.1）
+适用新的clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.dmg （版本1.91.1）
 
-https://github.com/yichengchen/clashX/releases （使用官方最新版本看最新公告）
+适用新的clash订阅：http://file.helloking.win/clash/macOS/ClashX-1.91.1.dmg （版本1.91.1）
+
+---
+![](/img/old-clash.png)
+
+适用旧的clash订阅：https://file.o4o.win/clash/macOS/ClashX.dmg （版本1.20.1）
+
+适用旧的clash订阅：http://file.helloking.win/clash/macOS/ClashX.dmg （版本1.20.1）
+
+---
+
+https://github.com/yichengchen/clashX/releases （官方最新版本，不建议，不保证能用）
+
+> 安装教程:
 
 ![](/img/clashx1.png)
 
