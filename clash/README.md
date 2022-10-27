@@ -6,6 +6,8 @@
 
 !> 推荐使用教程提供的软件版本，新旧订阅链接对应不同版本的客户端，最新的版本不一定兼容，这个自行测试。
 
+!> 新版本订阅链接对应的版本：clash_for_windows的v0.19.5版本及以上，clashx (macOs)的v1.90.0及以上，ClashForAndroid的v2.5.4及以上
+
 - [windows教程](/clash/windows.md)
 - [macOs教程](/clash/macOs.md)
 - [ios教程](/clash/ios.md)
