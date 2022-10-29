@@ -3,23 +3,34 @@
 一字不漏的看完下面文字，按教程操作
 
 !> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能查过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。
-#### 1、首先打开下面网址订购一个套餐
+#### 1、首先在官网购买一个套餐
 
-https://kingfast.cc/buy
+<!-- https://kingfast.cc/buy
 
 如果上面的网址打不开看下面的教程：
 
-https://www.zybuluo.com/hellozubuluo/note/1728024
+https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
-#### 2、下载客户端版本安装
+#### 2、下载客户端版本安装（推荐新版本）
 
 > 客户端下载地址:
 
-https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+![](/img/new-clash.png)
 
-http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+适用新的clash订阅： https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.19.5.exe （版本0.19.5）
 
-https://github.com/Fndroid/clash_for_windows_pkg/releases （使用官方最新版本看最新公告）
+适用新的clash订阅： http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.19.5.exe （版本0.19.5）
+
+---
+![](/img/old-clash.png)
+
+适用旧的clash订阅：https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+
+适用旧的clash订阅：http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+
+---
+
+https://github.com/Fndroid/clash_for_windows_pkg/releases （官方最新版本，不建议，不保证能用）
 
 
 
