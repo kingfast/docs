@@ -11,6 +11,12 @@ http://file.helloking.win/v2ray/windows/v2rayN-Core.zip (推荐)
 
 ~~https://github.com/2dust/v2rayN/releases （官方最新版本不一定适用kingfast）~~
 
+如果安装打开出现下图的提示，则需要安装这个NET环境，然后重启，再重新安装就行了。
+
+https://file.o4o.win/net/dotNetFx40_Full_x86_x64.exe  (微软net环境下载)
+
+![](/img/needNet.png)
+
 
 #### 2、复制 `产品管理 > 管理`  的 `v2ray订阅链接`
 
