@@ -48,11 +48,13 @@
 ##### 配置添加规则方法：
 
 点击 `配置  > 右上角+ `,
-然后粘贴下面的链接进去，然后下载。（下面链接的规则是：国内直连，国外网站走代理。）
+然后粘贴下面的链接进去，然后下载，下载后，点击地址，使用配置。（下面链接的规则是：国内直连，国外网站走代理。）
 
 ```
-https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf
+https://file.o4o.win/rules/sr_top500_whitelist_ad.conf
 ```
+
+
 
 ![config](/img/config.png)
 
