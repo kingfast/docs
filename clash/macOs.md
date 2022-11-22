@@ -36,9 +36,9 @@ sudo spctl --master-disable
 
 ![](/img/new-clash.png)
 
-适用新的clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1）
+适用新的clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
-适用新的clash订阅：http://file.helloking.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1）
+适用新的clash订阅：http://file.helloking.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
 ---
 ![](/img/old-clash.png)
@@ -78,3 +78,11 @@ https://github.com/yichengchen/clashX/releases （官方最新版本，不建议
 一般是推荐使用Rule模式，既不会影响访问国内网站速度，也省SS流量。
 如果遇到国外网站如pinterest打不开或者部分图片加载不出来，可能不在配置规则内，这种时候可以试下Global模式。
 
+#### （版本1.91.1 pro）的增强模式介绍（选看）
+
+pro版本的菜单里会有个`增强模式`，这个模式的作用，相当于你电脑的所有网络都会受到clash的影响，包括终端。
+不开启增强模式的时候，你开启规则模式或者全局模式，只是对你电脑的`浏览器`起作用，你电脑的其他应用，例如qq，微信，终端，这些一般是不起作用的。
+
+!> 所有一般情况下，不推荐使用增强模式，会浪费流量，影响国内网站和app的速度。一般在你需要终端需要走代理，或者特定客户端软件如（ledger live）也需要走代理的情况下才使用, 而且建议用完就关掉增强模式。
+
+![](/img/enhance.png)
