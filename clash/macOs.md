@@ -36,9 +36,9 @@ sudo spctl --master-disable
 
 ![](/img/new-clash.png)
 
-适用新的clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.dmg （版本1.91.1）
+适用新的clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1）
 
-适用新的clash订阅：http://file.helloking.win/clash/macOS/ClashX-1.91.1.dmg （版本1.91.1）
+适用新的clash订阅：http://file.helloking.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1）
 
 ---
 ![](/img/old-clash.png)
