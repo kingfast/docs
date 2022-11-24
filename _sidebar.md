@@ -25,3 +25,7 @@
     - [ios](/trojan/ios.md)
     - [android](/trojan/android.md)
     - [linux](/trojan/linux.md)
+
+- [其他教程](/others/)
+    - [others](/others/others.md)
+    - [terminal](/others/terminal.md)
