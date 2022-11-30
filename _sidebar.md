@@ -29,3 +29,4 @@
 - [其他教程](/others/)
     - [others](/others/others.md)
     - [terminal](/others/terminal.md)
+    - [tiktok](/others/tiktok.md)
