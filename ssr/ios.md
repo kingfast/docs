@@ -82,6 +82,13 @@ https://github.com/h2y/Shadowrocket-ADBlock-Rules
 
 ![config](/img/late.png)
 
+##### 订阅更新方法
+
+右滑一下在对应订阅的标题栏，就出现更新的字样，点一下就可以更新。左滑一下可以删除。
+
+
+![config](/img/update.png)
+
 
 
 
