@@ -26,7 +26,7 @@
     - 5. 点击搜索 itunes 就可以查看
     - 6. 名字随便输入，邮箱填写自己的，输入自己想买的金额付款即可
 
-- 3、或者买个已经购买了小火箭app的美区IOS账号，收集了一些购买地址（不做推荐，利益无关，风险自担『账号可能黑卡充值购买的，过阵子就被苹果封号』，有问题自行联系对应网址的卖家，不要提工单找我）[地址1](https://80lp.com/) [地址2](https://gtgmalll.com/) [地址3](https://fk.myue.cc/) [地址4](https://www.rocketgirls.space/product/) [地址5](https://xinstore.us/#/)
+- 3、图方便的话，可以买个美区ios账号自行支付宝充值（封号风险较小），也可以买个已经购买了小火箭app的美区IOS账号（如果是黑卡充值购买的，封号风险较大），收集了一些购买地址（不做推荐，利益无关，风险自担『账号里的小火箭可能是黑卡充值购买的，过阵子就被苹果封号』，有问题自行联系对应网址的卖家，不要提工单找我）[地址1](https://80lp.com/) [地址2](https://gtgmalll.com/) [地址3](https://fk.myue.cc/) [地址4](https://www.rocketgirls.space/product/) [地址5](https://xinstore.us/#/)
 <!-- [地址4](http://www.gakkismile.icu/) -->
 
 
