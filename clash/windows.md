@@ -30,9 +30,11 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 ---
 ![](/img/old-clash.png)
 
-适用旧的clash订阅：https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+旧版本不再支持，如果不知道自己版本，就下载上面的新版本
 
-适用旧的clash订阅：http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）
+~~适用旧的clash订阅：https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）~~
+
+~~适用旧的clash订阅：http://file.helloking.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）~~
 
 ---
 
