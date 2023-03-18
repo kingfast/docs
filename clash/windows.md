@@ -48,11 +48,13 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases （官方最新版本�
 
 > 安装好软件后，双击打开软件，按照下面图操作
 
-![](/img/w1.png)
+![](/img/1.png)
 
-![](/img/w2.png)
+![](/img/2.png)
 
-![](/img/w3.png)
+![](/img/3.png)
+
+![](/img/4.png)
 
 ![](/img/w4.png)
 
