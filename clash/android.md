@@ -44,7 +44,7 @@ https://github.com/Kr328/ClashForAndroid
 
 > 在`产品管理 > 管理`里面找到`clash订阅链接`复制，可以点击`点我复制`按钮。
 
-![](/img/android/4.png)
+![](/img/android/41.png)
 ![](/img/android/5.png)
 ![](/img/android/6.png)
 ![](/img/android/7.png)
