@@ -97,6 +97,13 @@ https://github.com/h2y/Shadowrocket-ADBlock-Rules
 
 ![config](/img/update.png)
 
+##### 自动订阅更新方法
+
+底部主菜单 -> 设置 -> 订阅，打开下面2个按钮
+
+
+![config](/img/auto.png)
+
 
 
 
