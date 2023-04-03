@@ -10,9 +10,9 @@
 
 ![](/img/new-clash.png)
 
-适用新的clash订阅：https://file.o4o.win/clash/android/cfa-2.5.4-premium-universal-release.apk (版本2.5.4)
+适用新的clash订阅：https://file.o4o.win/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
 
-适用新的clash订阅：http://file.helloking.win/clash/android/cfa-2.5.4-premium-universal-release.apk (版本2.5.4)
+适用新的clash订阅：http://file.helloking.win/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
 
 ---
 
