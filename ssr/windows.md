@@ -4,7 +4,10 @@
 
 #### 1、首先在官网的产品订购处订购一个套餐
 
-#### 2、下载客户端版本（必须下载右边的版本4.9.2👉） [点我下载](https://file.o4o.win/Windows/S-S-R.zip)
+#### 2、下载客户端版本（必须下载下边的版本4.9.2👇） 
+
+[点我下载](https://file.o4o.win/Windows/S-S-R.zip)
+[备用下载](http://file.helloking.win/Windows/S-S-R.zip)
 
 #### 3、打开产品管理用户中心，前往套餐详情页复制SSR订阅链接
 
