@@ -5,6 +5,7 @@
 - [tiktok教程](/others/tiktok.md)
 - [终端走代理教程](/others/terminal.md)
 - [其他软件走代理教程](/others/others.md)
+- [quanx教程](/others/quanx.md)
 
 > 对教程有疑问或者建议请去官网提交工单。
 

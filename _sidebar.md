@@ -30,3 +30,4 @@
     - [others](/others/others.md)
     - [terminal](/others/terminal.md)
     - [tiktok](/others/tiktok.md)
+    - [quanx](/others/quanx.md)
