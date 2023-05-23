@@ -1,7 +1,7 @@
 # 使用Quantumult X
 
 >由于quanx需要的订阅内容格式不一样，所以需要Quantumult X 资源解析器做转换，下面是简单教程，详细教程请看:
->https://www.notion.so/Quantumult-X-6bd13c1adc174debb80ebd3f5dfdd744。
+>https://www.notion.so/Quantumult-X-6bd13c1adc174debb80ebd3f5dfdd744
 
 
 
