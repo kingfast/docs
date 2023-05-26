@@ -35,7 +35,7 @@ chmod +x clash
 打开产品管理用户中心，前往套餐详情页复制`clash订阅链接`
 
 ```
-curl  你的clash订阅链接 > $HOME/.config/clash/config.yaml
+wget -O $HOME/.config/clash/config.yaml  你的clash订阅链接
 ```
 
 运行Clash 会默认读取 `$HOME/.config/clash` 目录下的 `config.yaml` 文件，把下载的配置文件放在这个目录内。
