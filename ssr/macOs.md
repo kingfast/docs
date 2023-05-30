@@ -57,5 +57,5 @@ sudo spctl --master-disable
 
 > 如果订阅成功，试了所有线路都不行，pac模式和全局模式都不行，Safari和Chrome都不行，那么试下这个版本，[点我下载](https://file.o4o.win/Mac/electron-ssr-0.2.6.dmg)，使用方法差不多。
 
-#### 如果仔细看完上面教程操作，SSR订阅还是用不了，使用产品管理的v2ray订阅线路。
+#### 如果仔细看完上面教程操作，SSR订阅还是用不了，看教程使用产品管理的clash订阅线路。
 
