@@ -49,7 +49,7 @@ wget -O $HOME/.config/clash/config.yaml  你的clash订阅链接
 
 ![](/img/linux1.png)
 
-可以看到clash创建了前置代理，http代理端口为：`7890` ，socks5代理端口为：`7891` ，RESTful API的端口是`9090`
+可以看到clash创建了前置代理，http代理端口为：`7890` ，socks5代理端口为：`7891` ，RESTful API的端口是`9090` `(这些端口不同版本可能不一样，实际以终端输入的为准)`
 
 这个时候在chrome浏览器或者firefox浏览器的`SwitchyOmega`插件里配一下代理就行了，如下图。
 
@@ -58,7 +58,7 @@ wget -O $HOME/.config/clash/config.yaml  你的clash订阅链接
 
 #### 通过web控制面板RESTful API切换节点和模式，可用下面两个来控制。
 
-http://clash.razord.top 或者 http://yacd.haishan.me 
+https://clash.razord.top 或者 https://yacd.haishan.me 
 
 >这里我以第一个为例，设置好外部控制，默认配置文件RESTful API端口是`9090`，密钥为空。
 
