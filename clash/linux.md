@@ -35,6 +35,7 @@ chmod +x clash
 打开产品管理用户中心，前往套餐详情页复制`clash订阅链接`
 
 ```
+mkdir -p $HOME/.config/clash
 wget -O $HOME/.config/clash/config.yaml  你的clash订阅链接
 ```
 
