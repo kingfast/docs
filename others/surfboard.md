@@ -4,6 +4,8 @@
 
 >surfboard订阅的线路和clash一样的，都是v2ray线路和trojan线路，功能有些差异，可以对比都试试。
 
+>surfboard使用问题：https://manual.getsurfboard.com/faq
+
 ### 0、首先在官网购买一个套餐
 
 
