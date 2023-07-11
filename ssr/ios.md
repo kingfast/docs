@@ -59,11 +59,16 @@
 然后粘贴下面的链接进去，然后下载，下载后，点击地址，使用配置。（下面链接的规则是：国内直连，国外网站走代理。）
 
 添加后，还需要点一下在远程文件的url，使用，才可以。
+配置地址
 
 ```
 https://file.o4o.win/rules/sr_top500_whitelist_ad.conf
 ```
 
+配置备用地址：
+```
+https://h2y.github.io/Shadowrocket-ADBlock-Rules/sr_top500_whitelist_ad.conf
+```
 
 
 ![config](/img/config.png)
