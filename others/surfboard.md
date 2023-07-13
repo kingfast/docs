@@ -15,7 +15,7 @@
 
 https://file.o4o.win/surfboard/2.21.0.apk (版本2.21.0)
 
-http://file.helloking.win/surfboard/2.21.0.apk (版本2.21.0)
+http://file.o6o.me/surfboard/2.21.0.apk (版本2.21.0)
 
 ---
 

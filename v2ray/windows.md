@@ -8,7 +8,7 @@
 
 https://file.o4o.win/v2ray/windows/v2rayN-Core.zip (推荐)
 
-http://file.helloking.win/v2ray/windows/v2rayN-Core.zip (推荐)
+http://file.o6o.me/v2ray/windows/v2rayN-Core.zip (推荐)
 
 ~~https://github.com/2dust/v2rayN/releases （官方最新版本不一定适用kingfast）~~
 

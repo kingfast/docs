@@ -8,7 +8,7 @@
 
 https://file.o4o.win/v2ray/android/v2rayNG_1.2.6.apk
 
-http://file.helloking.win/v2ray/android/v2rayNG_1.2.6.apk
+http://file.o6o.me/v2ray/android/v2rayNG_1.2.6.apk
 
 https://github.com/2dust/v2rayNG/releases （官方最新版本不一定适用kingfast）
 

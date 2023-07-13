@@ -8,7 +8,7 @@
 
 https://file.o4o.win/trojan/windows/Trojan-Qt5-Windows.zip
 
-http://file.helloking.win/trojan/windows/Trojan-Qt5-Windows.zip
+http://file.o6o.me/trojan/windows/Trojan-Qt5-Windows.zip
 
 https://github.com/TheWanderingCoel/Trojan-Qt5/releases  （官方最新版本）
 

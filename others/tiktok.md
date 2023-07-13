@@ -23,4 +23,6 @@
 
 下载这个破解版本安装：
 
-http://file.helloking.win/others/tiktok.apk
+https://file.o4o.win/others/tiktok.apk
+
+备用地址：http://file.o6o.me/others/tiktok.apk

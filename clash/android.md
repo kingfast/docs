@@ -14,7 +14,7 @@
 
 适用新的clash订阅：https://file.o4o.win/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
 
-适用新的clash订阅：http://file.helloking.win/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
+适用新的clash订阅：http://file.o6o.me/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
 
 ---
 
@@ -24,7 +24,7 @@
 
 ~~适用旧的clash订阅：https://file.o4o.win/clash/android/app-universal-release.apk~~
 
-~~适用旧的clash订阅：http://file.helloking.win/clash/android/app-universal-release.apk~~
+~~适用旧的clash订阅：http://file.o6o.me/clash/android/app-universal-release.apk~~
 
 ---
 
