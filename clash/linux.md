@@ -6,13 +6,15 @@
 
 ## clash gui版本使用
 - `clashy` [项目地址](https://github.com/SpongeNobody/Clashy/releases) 暂无教程，自行研究
-- `Clash For Windows` [项目地址](https://github.com/Fndroid/clash_for_windows_pkg/releases) 暂无教程，可参考这个[网上教程](https://blog.zzsqwq.cn/posts/clash-for-windows-on-linux/)
+- `Clash For Windows` [项目地址](https://github.com/lantongxue/clash_for_windows_pkg/releases) 暂无教程，可参考这个[网上教程](https://blog.zzsqwq.cn/posts/clash-for-windows-on-linux/)
 
+<!-- https://archive.org/details/clash_for_windows_pkg -->
 
 ## clash命令行版本配合web ui教程 （推荐）
 我们直接使用Clash Core，首先到Github下载Clash Core（Clash作者已经提供了各个平台的预编译文件），`选择自己对应的平台下载就行`，linux一般下载`clash-linux-amd64-xxx`。这里我使用的是`clash-darwin-amd64-v0.20.0`。下载解压出来你会得到一个`clash-darwin-amd64-v0.20.0`的二进制文件，为了便于接下来的操作我们把他重命名为`clash`。
 
-> 下载地址：https://github.com/Dreamacro/clash/releases
+<!-- > 下载地址：https://github.com/Dreamacro/clash/releases -->
+> 下载地址：https://github.com/doreamon-design/clash/releases
 
 下载Clash Core 二进制可执行文件
 
