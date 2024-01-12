@@ -1,6 +1,6 @@
 # SSR订阅linux使用教程
 
-linux平台比较多，客户端用`electron-ssr`，看下面项目地址，都会用linux了，教程就不需要了，看下面项目。
+linux平台比较多，客户端用`electron-ssr`，看下面项目地址，目前没有教程，浏览器还需要额外配置下，具体参考clash的Linux教程。
 
 https://github.com/shadowsocksrr/electron-ssr/blob/master/README-CN.md
 
