@@ -56,6 +56,8 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases （官方最新版本�
 
 ![](/img/3.png)
 
+> 不管你用规则模式(Rule)还是全局模式(Global)不要选择全球直连、DIRECT的线路，这个等于没开代理！
+
 ![](/img/4.png)
 
 ![](/img/w4.png)
