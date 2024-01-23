@@ -1,6 +1,6 @@
 # clash订阅windows使用教程
 
-一字不漏的看完下面文字，按教程操作
+## 一字不漏的看完下面文字，按教程操作
 
 !> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能查过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。可以打开https://time.is 对比一下时间。
 #### 1、首先在官网购买一个套餐
@@ -28,17 +28,6 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 适用新的clash订阅： http://file.o6o.me/clash/windows/Clash.for.Windows.Setup.0.20.19.ia32.exe （版本0.20.19，32位的电脑）
 
 ---
-![](/img/old-clash.png)
-
-旧版本不再支持，如果不知道自己版本，就下载上面的新版本
-
-~~适用旧的clash订阅：https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）~~
-
-~~适用旧的clash订阅：http://file.o6o.me/clash/windows/Clash.for.Windows.Setup.0.9.11.exe （版本0.9.11）~~
-
----
-
-https://github.com/Fndroid/clash_for_windows_pkg/releases （官方最新版本，不建议，不保证能用）
 
 
 
@@ -78,4 +67,17 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases （官方最新版本�
 拿访问新浪举例，Rule模式会从你手机到新浪服务器，Global模式会从你手机到国外再到新浪服务器。
 一般是推荐使用Rule模式，既不会影响访问国内网站速度，也省SS流量。
 如果遇到国外网站如pinterest打不开或者部分图片加载不出来，可能不在配置规则内，这种时候可以试下Global模式。
+
+
+#### 简单问题排查方法：
+
+问题1：所有线路的延迟都是timeout
+解决办法：
+- 看下流量是否用完了
+- 打开https://time.is/ 网站，检查系统时间是否准确，如果有误差，需要进行校准。
+
+问题2：线路有延迟但是浏览器无法打开google.com等国外网站
+解决办法：
+- 设置为系统代理，有没勾选上，检查一下。
+- 有延迟的线路肯定能用的。试下能不能打开https://ip.sb ? 有没显示国外的IP? 如果显示国内IP，那是浏览器设置问题，把chrome跟代理相关的插件停用就行了，不知道哪个就用排除法。或者换其他浏览器试下。
 
