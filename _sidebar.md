@@ -32,3 +32,4 @@
     - [tiktok](/others/tiktok.md)
     - [quanx](/others/quanx.md)
     - [surfboard](/others/surfboard.md)
+    - [singbox](/others/singbox.md)

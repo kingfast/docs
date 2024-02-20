@@ -7,6 +7,7 @@
 - [其他软件走代理教程](/others/others.md)
 - [quanx教程](/others/quanx.md)
 - [surfboard教程](/others/surfboard.md)
+- [singbox教程](/others/singbox.md)
 
 > 对教程有疑问或者建议请去官网提交工单。
 
