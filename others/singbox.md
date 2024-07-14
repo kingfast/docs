@@ -18,7 +18,7 @@
 
 https://file.o4o.win/singbox/SFA-1.9.0-alpha.10-universal.apk (版本1.9.0)
 
-http://file.o6o.me/singbox/SFA-1.9.0-alpha.10-universal.apk (版本1.9.0)
+http://file.helloking.top/singbox/SFA-1.9.0-alpha.10-universal.apk (版本1.9.0)
 
 ---
 

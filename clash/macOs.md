@@ -40,7 +40,7 @@ sudo spctl --master-disable
 
 适用新的clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
-适用新的clash订阅：http://file.o6o.me/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
+适用新的clash订阅：http://file.helloking.top/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
 ---
 ![](/img/old-clash.png)
@@ -49,7 +49,7 @@ sudo spctl --master-disable
 
 ~~适用旧的clash订阅：https://file.o4o.win/clash/macOS/ClashX.dmg （版本1.20.1）~~
 
-~~适用旧的clash订阅：http://file.o6o.me/clash/macOS/ClashX.dmg （版本1.20.1）~~
+~~适用旧的clash订阅：http://file.helloking.top/clash/macOS/ClashX.dmg （版本1.20.1）~~
 
 ---
 

@@ -25,4 +25,4 @@
 
 https://file.o4o.win/others/tiktok.apk
 
-备用地址：http://file.o6o.me/others/tiktok.apk
+备用地址：http://file.helloking.top/others/tiktok.apk
