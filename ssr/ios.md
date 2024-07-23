@@ -101,7 +101,7 @@ https://github.com/h2y/Shadowrocket-ADBlock-Rules
 
 在`设置 -> 延迟测试方法 `改为`CONNECT`, 然后在首页的连通性测试，点一下，可以看到延迟，有延迟说明这个线路是可以使用的，延迟大小并不代表速度，实际速度还是要以实际使用为准。
 
-![config](/img/late.png)
+![config](/img/late2.png)
 
 ##### 订阅更新方法
 
