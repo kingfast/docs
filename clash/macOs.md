@@ -36,20 +36,9 @@ sudo spctl --master-disable
 
 > 客户端下载地址:
 
-![](/img/new-clash.png)
+适用clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
-适用新的clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
-
-适用新的clash订阅：http://file.helloking.top/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
-
----
-![](/img/old-clash.png)
-
-旧版本不再支持，如果不知道自己版本，就下载上面的新版本
-
-~~适用旧的clash订阅：https://file.o4o.win/clash/macOS/ClashX.dmg （版本1.20.1）~~
-
-~~适用旧的clash订阅：http://file.helloking.top/clash/macOS/ClashX.dmg （版本1.20.1）~~
+适用clash订阅：http://file.helloking.top/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
 ---
 
