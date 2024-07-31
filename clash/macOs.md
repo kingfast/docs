@@ -16,7 +16,7 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 #### 1、先设置下电脑权限，不然安装可能不成功
 
-> 打开「终端」。
+> 打开「终端」(command + 空格，然后搜索‘终端’)。
 
 ![](/img/mac1.png)
 
