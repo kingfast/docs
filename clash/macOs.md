@@ -44,6 +44,8 @@ sudo spctl --master-disable
 
 Bartender下载地址：https://xclient.info/s/bartender.html
 
+或者也可以试下这个https://www.better365.cn/ibar.html
+
 ---
 
 https://github.com/yichengchen/clashX/releases （官方最新版本，不建议，不保证能用）

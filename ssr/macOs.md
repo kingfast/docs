@@ -29,6 +29,8 @@ sudo spctl --master-disable
 
 Bartender下载地址：https://xclient.info/s/bartender.html
 
+或者也可以试下这个https://www.better365.cn/ibar.html
+
 >如果提示无法打开，是否包含恶意软件，看这个教程：[点我打开](https://www.zybuluo.com/hellozubuluo/note/1762303)
 
 ![](/img/mac3.png)
