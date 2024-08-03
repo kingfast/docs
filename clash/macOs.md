@@ -40,6 +40,10 @@ sudo spctl --master-disable
 
 适用clash订阅：http://file.helloking.top/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
+如果是带刘海的屏幕的MacBook，可能打开之后，看不到顶部的图标，可以安装Bartender软件就能看到了
+
+Bartender下载地址：https://xclient.info/s/bartender.html
+
 ---
 
 https://github.com/yichengchen/clashX/releases （官方最新版本，不建议，不保证能用）
