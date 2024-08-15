@@ -8,11 +8,11 @@
 ### 1、下载客户端APP
 >要求Android 7.0+
 
-> 客户端下载地址(推荐新版本): 
+> 客户端下载地址: 
 
-clash订阅软件下载地址：https://file.o4o.win/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
+clash安卓软件下载地址：https://file.o4o.win/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
 
-clash订阅软件下载地址：http://file.helloking.top/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
+clash安卓软件下载地址：http://file.helloking.top/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
 
 ---
 
