@@ -10,21 +10,9 @@
 
 > 客户端下载地址(推荐新版本): 
 
-![](/img/new-clash.png)
+clash订阅软件下载地址：https://file.o4o.win/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
 
-适用新的clash订阅：https://file.o4o.win/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
-
-适用新的clash订阅：http://file.helloking.top/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
-
----
-
-![](/img/old-clash.png)
-
-旧版本不再支持，如果不知道自己版本，就下载上面的新版本
-
-~~适用旧的clash订阅：https://file.o4o.win/clash/android/app-universal-release.apk~~
-
-~~适用旧的clash订阅：http://file.helloking.top/clash/android/app-universal-release.apk~~
+clash订阅软件下载地址：http://file.helloking.top/clash/android/cfa-2.5.12-premium-universal-release.apk (版本2.5.12)
 
 ---
 
@@ -36,7 +24,6 @@ https://github.com/Kr328/ClashForAndroid
 
 ### 2、获取clash订阅链接
 > 在`产品管理 > 管理`里面找到`clash订阅链接（新或旧）`复制，可以点击`点我复制`按钮。
-> 有新旧版本，需要跟客户端软件版本对应，看步骤1
 
 ### 3、具体使用步骤：
 
