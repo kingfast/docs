@@ -12,7 +12,10 @@
 
 > ios客户端下载地址: 
 
-用美区ios账号免费下载,获取美区账号教程看[这里](/ssr/ios.md)
+用美区ios账号搜索`sing-box`免费下载,获取美区账号教程看[这里](/ssr/ios.md)
+由于开发者证书问题，iOS端singbox在applestore暂时下架，未安装singbox的iPhone目前暂时无法使用，预计到9月中旬恢复，请关注本教程。
+
+其他免费的软件可以搜索`Karing`，支持clash订阅和singbox订阅
 
 > 安卓客户端下载地址: 
 
