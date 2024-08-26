@@ -36,9 +36,9 @@ sudo spctl --master-disable
 
 > 客户端下载地址:
 
-适用clash订阅：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
+clash软件下载地址：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
-适用clash订阅：http://file.helloking.top/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
+clash软件下载地址：http://file.helloking.top/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
 
 如果是带刘海的屏幕的MacBook，可能打开之后，看不到顶部的图标，可以安装`Bartender`软件就能看到了
 

@@ -19,13 +19,13 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 现在的电脑一般都是64位，先下载64位的，如果提示不行，那就下载32位的。
 
-适用新的clash订阅： https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.20.19.exe （版本0.20.19, 64位的电脑）
+clash软件下载地址： https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.20.19.exe （版本0.20.19, 64位的电脑）
 
-适用新的clash订阅： http://file.helloking.top/clash/windows/Clash.for.Windows.Setup.0.20.19.exe （版本0.20.19，64位的电脑）
+clash软件下载地址： http://file.helloking.top/clash/windows/Clash.for.Windows.Setup.0.20.19.exe （版本0.20.19，64位的电脑）
 
-适用新的clash订阅： https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.20.19.ia32.exe （版本0.20.19，32位的电脑）
+clash软件下载地址： https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.20.19.ia32.exe （版本0.20.19，32位的电脑）
 
-适用新的clash订阅： http://file.helloking.top/clash/windows/Clash.for.Windows.Setup.0.20.19.ia32.exe （版本0.20.19，32位的电脑）
+clash软件下载地址： http://file.helloking.top/clash/windows/Clash.for.Windows.Setup.0.20.19.ia32.exe （版本0.20.19，32位的电脑）
 
 ---
 
