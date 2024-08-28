@@ -56,7 +56,7 @@ clash软件下载地址： http://file.helloking.top/clash/windows/Clash.for.Win
 
 ![](/img/4.png)
 
-![](/img/w4.png)
+![](/img/5.png)
 
 > 步骤2：更新完订阅之后，右击电脑整个屏幕右下角的小猫软件图标，关闭其他代理软件，`System Proxy(系统代理)`勾选上，就可以选择节点来使用了。
 
