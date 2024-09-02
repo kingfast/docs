@@ -19,12 +19,12 @@
     - [android](/v2ray/android.md)
     - [linux](/v2ray/linux.md)
 
-- [trojan订阅使用教程](/trojan/)
+<!-- - [trojan订阅使用教程](/trojan/)
     - [windows](/trojan/windows.md)
     - [macOs](/trojan/macOs.md)
     - [ios](/trojan/ios.md)
     - [android](/trojan/android.md)
-    - [linux](/trojan/linux.md)
+    - [linux](/trojan/linux.md) -->
 
 - [其他教程](/others/)
     - [others](/others/others.md)
