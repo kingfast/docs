@@ -99,6 +99,14 @@ sudo spctl --master-disable
 
 ![](/img2/mac/m6.png)
 
+如果以上步骤操作完不行，参考下面
+
+MacOS用户如需使用tun模式(代理所有流量)，需执行以下命令赋予meta内核权限：
+```
+sudo chown root:admin /Applications/Clash\ Verge.app/Contents/MacOS/clash-meta
+sudo chmod +sx /Applications/Clash\ Verge.app/Contents/MacOS/clash-meta
+```
+
 #### 简单问题排查方法：
 
 问题1：所有线路的延迟都是timeout<br/>

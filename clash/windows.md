@@ -22,6 +22,7 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 | [windows64位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_1.7.7_x64-setup.exe) | 
 | [windows64位备用下载1](http://file.helloking.top/clash/clash-verge/windows/Clash.Verge_1.7.7_x64-setup.exe) | 
 | [windows64位备用下载2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | 
+| [windows64位备用下载3](https://wwst.lanzouk.com/idNfa283hn6f) | 
 
 Clash Verge安装/运行不正常（闪退，不显示等），到"控制面板/应用管理"修复或下载安装Webview 2：https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
