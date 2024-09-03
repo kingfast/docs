@@ -54,6 +54,8 @@ sudo spctl --master-disable
 
 > 安装教程:
 
+按下图安装好后，在`启动台`中启动Verge
+
 ![](/img2/mac/m1.png)
 
 #### 3、打开产品管理用户中心，前往套餐详情页复制`clash订阅链接`

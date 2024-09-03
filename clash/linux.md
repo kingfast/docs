@@ -2,11 +2,9 @@
 
 !> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能查过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。可以打开https://time.is 对比一下时间。
 
->教程时使用的环境 macOs 10.15.3 (macOs是类unix系统，操作一样)
 
 ## clash gui版本使用
-- `clashy` [项目地址](https://github.com/SpongeNobody/Clashy/releases) 暂无教程，自行研究
-- `Clash For Windows` [项目地址](https://github.com/lantongxue/clash_for_windows_pkg/releases) 暂无教程，可参考这个[网上教程](https://blog.zzsqwq.cn/posts/clash-for-windows-on-linux/)
+- `clash verge rev` [项目地址](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v1.7.7) 自行下载自己linux发行版的安装包安装，使用教程参考windows的
 
 <!-- https://archive.org/details/clash_for_windows_pkg -->
 
@@ -14,7 +12,10 @@
 我们直接使用Clash Core，首先到Github下载Clash Core（Clash作者已经提供了各个平台的预编译文件），`选择自己对应的平台下载就行`，linux一般下载`clash-linux-amd64-xxx`。这里我使用的是`clash-darwin-amd64-v0.20.0`。下载解压出来你会得到一个`clash-darwin-amd64-v0.20.0`的二进制文件，为了便于接下来的操作我们把他重命名为`clash`。
 
 <!-- > 下载地址：https://github.com/Dreamacro/clash/releases -->
-> 下载地址：https://github.com/doreamon-design/clash/releases
+
+> 下载地址：https://github.com/doreamon-design/clash/releases (clash内核，停止维护)
+
+> 下载地址： https://github.com/MetaCubeX/mihomo/releases （clash meta内核，推荐使用这个）
 
 下载Clash Core 二进制可执行文件
 
