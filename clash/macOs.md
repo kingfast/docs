@@ -32,7 +32,7 @@ sudo spctl --master-disable
 
 ![](/img/mac2.png)
 
-#### 2、下载客户端版本安装(推荐新版本)
+#### 2、下载客户端版本安装
 
 > 客户端下载地址:
 
@@ -64,7 +64,7 @@ sudo spctl --master-disable
 
 #### 4、在软件配置订阅链接使用
 
-> 单击顶部菜单栏的clash verge小猫图标，然后 `打开面板> 订阅 > 右侧粘贴订阅链接 > 导入`，按下图提示操作
+> 单击顶部菜单栏的clash verge小猫图标，然后 `打开面板 > 订阅 > 右侧粘贴订阅链接 > 导入`，按下图提示操作
 
 ![](/img2/mac/m3.png)
 
@@ -72,7 +72,7 @@ sudo spctl --master-disable
 
 ![](/img2/mac/m4.png)
 
-> 点击"设置"启用代理，开始使用
+> 点击"设置"启用系统代理，开始使用
 
 ![](/img2/mac/m5.png)
 
