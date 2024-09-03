@@ -36,61 +36,66 @@ sudo spctl --master-disable
 
 > 客户端下载地址:
 
-clash软件下载地址：https://file.o4o.win/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
+**软件版本1.7.7** (更新版本不一定兼容，升级后如果出现问题回退到这个版本)
 
-clash软件下载地址：http://file.helloking.top/clash/macOS/ClashX-1.91.1.pro.dmg （版本1.91.1 pro 推荐）
+| Mac M芯片 | Mac Intel芯片 |
+| ------ | ------ |
+| [Mac M芯片下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [Mac Intel下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
+| [Mac M芯片备用下载1](http://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [Mac Intel下载备用下载1](http://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
+| [Mac M芯片备用下载2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) | [Mac Intel下载备用下载2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) | 
 
-如果是带刘海的屏幕的MacBook，可能打开之后，看不到顶部的图标，可以安装`Bartender`软件就能看到了
+如果是带刘海的屏幕的MacBook，`可能`打开之后，看不到顶部的图标，可以安装`Bartender`软件就能看到了
 
 `Bartender`下载地址：https://xclient.info/s/bartender.html
 
 或者也可以试下这个`ibar`：https://www.better365.cn/ibar.html
 
-其他clash客户端(1.7.5版本经测试，也适用我们的套餐，无教程，小白忽略)：[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
-
 ---
-
-https://github.com/yichengchen/clashX/releases （官方最新版本，不建议，不保证能用）
 
 > 安装教程:
 
-![](/img/mac/m1.png)
+![](/img2/mac/m1.png)
 
 #### 3、打开产品管理用户中心，前往套餐详情页复制`clash订阅链接`
 
-> 在`产品管理 > 管理`里面找到`clash订阅链接`复制，必须要用新版本的，可以点击`点我复制`按钮。
+> 在`产品管理 > 管理`里面找到`clash订阅链接`复制，直接点击`点我复制`按钮。
 
-#### 4、配置订阅链接，获取线路
+![](/img2/mac/m2.png)
 
-> 单击顶部菜单栏的clashx小猫图标，然后 `配置 > 托管配置 > 管理`，按下图提示操作
+#### 4、在软件配置订阅链接使用
 
-![](/img/mac/m2.png)
+> 单击顶部菜单栏的clash verge小猫图标，然后 `打开面板> 订阅 > 右侧粘贴订阅链接 > 导入`，按下图提示操作
 
-![](/img/mac/m3.png)
+![](/img2/mac/m3.png)
 
-![](/img/mac/m4.png)
+> 点击“代理”，选择你需要的代理类型（推荐规则）和节点
 
-> 更新完订阅之后，再点击clashx菜单，关闭其他代理软件，`设置为系统代理`勾选上，就可以选择节点来使用了。
+![](/img2/mac/m4.png)
 
-> 出站规则推荐用`规则判断`，如果这样某些国外网站也上不了，可以用`全局连接`。
+> 点击"设置"启用代理，开始使用
 
-#### 出站规则：Rule(规则判断)和Global(全局连接)的区别
+![](/img2/mac/m5.png)
 
-- **Rule(规则判断)**：根据配置的规则来判断需不需要走代理，一般是国内网站直连，国外被墙网站走代理。
-- **Global(全局连接)**：所有连接均走代理，访问所有网站都是，浪费套餐流量，影响国内网站访问速度。
 
-拿访问新浪举例，Rule模式会从你手机到新浪服务器，Global模式会从你手机到国外再到新浪服务器。
-一般是推荐使用Rule模式，既不会影响访问国内网站速度，也省SS流量。
-如果遇到国外网站如pinterest打不开或者部分图片加载不出来，可能不在配置规则内，这种时候可以试下Global模式。
+> 代理模式推荐用`规则`，如果这样某些国外网站还是上不了，可以用`全局`，不推荐长期开着全局，影响国内网站速度甚至打不开，流量用的还很快。
 
-#### （版本1.91.1 pro）的增强模式介绍（选看）
+#### 规则模式和全局模式的区别
 
-pro版本的菜单里会有个`增强模式`，这个模式的作用，相当于你电脑的所有网络都会受到clash的影响，包括终端。
-不开启增强模式的时候，你开启规则模式或者全局模式，只是对你电脑的`浏览器`起作用，你电脑的其他应用，例如qq，微信，终端，这些一般是不起作用的。
+- **规则模式**：根据配置的规则来判断需不需要走代理，一般是国内网站直连，国外被墙网站走代理。
+- **全局模式**：所有连接均走代理，访问所有网站都是，浪费套餐流量，影响国内网站访问速度。
 
-!> 所有一般情况下，不推荐使用增强模式，会浪费流量，影响国内网站和app的速度。一般在你需要终端需要走代理，或者特定客户端软件如（ledger live）也需要走代理的情况下才使用, 而且建议用完就关掉增强模式。
+拿访问新浪举例，规则模式会从你手机到新浪服务器，全局模式会从你手机到国外再到新浪服务器（绕一圈）。
+一般是推荐使用规则模式，既不会影响访问国内网站速度，也省流量。
+如果遇到国外网站如pinterest打不开或者部分图片加载不出来，可能不在配置规则内，这种时候可以临时试下全局模式。
 
-![](/img/enhance.png)
+#### clash verge Tun模式介绍（选看）
+
+菜单设置里会有个`Tun模式`，这个模式的作用，相当于你电脑的所有网络都会受到clash的影响，包括终端。
+不开启Tun模式的时候，你开启规则模式或者全局模式，只是对你电脑的`浏览器`起作用，你电脑的其他应用，例如qq，微信，终端，这些一般是不起作用的。
+
+!> 一般情况下，不推荐使用Tun模式，会浪费流量，影响国内网站和app的速度。一般在你需要终端需要走代理，或者特定客户端软件如（ledger live）也需要走代理的情况下才使用, 而且建议用完就关掉Tun模式。
+
+![](/img2/mac/m6.png)
 
 #### 简单问题排查方法：
 
