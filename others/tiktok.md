@@ -2,10 +2,17 @@
 
 >抖音 海外版应用 TikTok 在某些国家的火爆程度甚至超过本土用户，在日本印度韩国等国家，TikTok的下载量一直占据榜单前列；虽然是同一家公司的同一个产品，TikTok 和 抖音 不仅只有名字上的差异，它更像游戏一样存在这严格的“锁区”限制，即使你借助代理工具连接到外网，也会在注册时出现异常错误，更不可能刷出任何内容！
 
-最新教程：
+2024最新教程：
 
-https://www.youtube.com/watch?v=Fk9sNeC2bDA
+ios看这个：https://www.youtube.com/watch?v=Fk9sNeC2bDA
 
+安卓看这个：https://www.youtube.com/watch?v=AgByhIhU-Eo
+
+https://jiasupanda.com/tiktok-use
+
+-----
+
+下面内容可能已过期不适用
 
 ### IOS
 

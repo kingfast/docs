@@ -2,7 +2,7 @@
 
 !> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能查过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。可以打开https://time.is 对比一下时间。
 
->surfboard订阅的线路和clash一样的，都是v2ray线路和trojan线路，功能有些差异，可以对比都试试。
+>surfboard订阅的线路和clash一样的，功能有些差异，可以对比都试试。
 
 >surfboard使用问题：https://manual.getsurfboard.com/faq
 
