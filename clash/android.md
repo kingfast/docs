@@ -25,7 +25,7 @@ https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （官方最新版本
 https://github.com/MetaCubeX/ClashMetaForAndroid/
 
 ### 2、获取clash订阅链接
-> 在`产品管理 > 管理`里面找到`clash订阅链接（新或旧）`复制，可以点击`点我复制`按钮。
+> 在`产品管理 > 管理`里面找到`clash订阅链接`复制，可以点击`点我复制`按钮，安装好软件也可以`一键导入clash`。
 
 ### 3、具体使用步骤：
 
@@ -41,5 +41,23 @@ https://github.com/MetaCubeX/ClashMetaForAndroid/
 ![](/img/android/7.png)
 ![](/img/android/8.png)
 ![](/img/android/9.png)
+
+> 启动后，可以点击`代理`进去选择节点
+
 ![](/img/android/10.png)
 ![](/img/android/11.png)
+
+> 切换规则模式和全局模式方法
+
+![](/img/android/12.png)
+![](/img/android/13.png)
+
+#### 规则模式和全局模式的区别
+
+- **直连模式**：等于没开软件
+- **规则模式**：根据配置的规则来判断需不需要走代理，一般是国内网站直连，国外被墙网站走代理。
+- **全局模式**：所有连接均走代理，访问所有网站都是，浪费套餐流量，影响国内网站访问速度。
+
+拿访问新浪举例，规则模式会从你手机到新浪服务器，全局模式会从你手机到国外再到新浪服务器（绕一圈）。
+一般是推荐使用规则模式，既不会影响访问国内网站速度，也省流量。
+如果遇到国外网站如pinterest打不开或者部分图片加载不出来，可能不在配置规则内，这种时候可以临时试下全局模式。
