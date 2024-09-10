@@ -20,9 +20,9 @@
 
 > 安卓客户端下载地址: 
 
-https://file.o4o.win/singbox/SFA-1.9.0-alpha.10-universal.apk (版本1.9.0)
+https://file.o4o.win/singbox/SFA-1.9.4-universal.apk (版本1.9.4)
 
-http://file.helloking.top/singbox/SFA-1.9.0-alpha.10-universal.apk (版本1.9.0)
+http://file.helloking.top/singbox/SFA-1.9.4-universal.apk (版本1.9.4)
 
 ---
 
