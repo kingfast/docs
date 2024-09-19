@@ -30,7 +30,9 @@ Clash Verge安装/运行不正常（闪退，不显示等），到"控制面板/
 
 IP Guard问题，可能导致无法运行Verge（点“任务栏图标“无反应），请以win8兼容模式运行Verge，参考：https://jingyan.baidu.com/article/925f8cb816b94a81dce05658.html
 
-Clash Verge不支持Win7，升级Win10或11，一定要用win7软件，目前只能看ssr订阅的教程，线路少很多，但是能用。
+Clash Verge不支持Win7，需要升级Win10或11。
+
+!> win7参考这个教程：[win7教程](/clash/win7.md)
 
 !> 安装和运行Clash Verge, 360等提示”系统修改“，一律允许；强烈建议卸载360，使用非国产杀毒软件。
 
