@@ -15,6 +15,10 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 > 客户端下载地址:
 
+!> Clash Verge不支持Win7，需要升级Win10或11。
+
+!> win7参考这个教程：[win7教程](/clash/win7.md)
+
 **Clash Verge软件版本1.7.7** (更新版本不一定兼容，升级后如果出现问题回退到这个版本)
 
 | windows64位 | 
@@ -30,9 +34,6 @@ Clash Verge安装/运行不正常（闪退，不显示等），到"控制面板/
 
 IP Guard问题，可能导致无法运行Verge（点“任务栏图标“无反应），请以win8兼容模式运行Verge，参考：https://jingyan.baidu.com/article/925f8cb816b94a81dce05658.html
 
-Clash Verge不支持Win7，需要升级Win10或11。
-
-!> win7参考这个教程：[win7教程](/clash/win7.md)
 
 !> 安装和运行Clash Verge, 360等提示”系统修改“，一律允许；强烈建议卸载360，使用非国产杀毒软件。
 
