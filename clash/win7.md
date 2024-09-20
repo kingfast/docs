@@ -10,8 +10,8 @@ https://file.o4o.win/clash/others/zz_v2rayN-With-Core-SelfContained.7z
 
 https://www.wenpblog.com/info/152.html -->
 
-打开产品管理 管理，看到v2ray订阅（win7专用），看右边的使用教程。
+打开`产品管理 -> 管理`，看到`v2ray订阅（win7专用）`，看链接右边的使用教程。
 
 ### 解决方案2：
 
-看ssr订阅的教程，线路少很多，但是能用。
+看左侧菜单的ssr订阅的教程，线路少一些。
