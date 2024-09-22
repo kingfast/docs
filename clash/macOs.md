@@ -112,7 +112,7 @@ sudo chown root:admin /Applications/Clash\ Verge.app/Contents/MacOS/clash-meta
 sudo chmod +sx /Applications/Clash\ Verge.app/Contents/MacOS/clash-meta
 ``` -->
 
-#### 简单问题排查方法：
+#### 常见问题排查方法：
 
 问题1：所有线路的延迟都是timeout<br/>
 解决办法：
@@ -121,5 +121,11 @@ sudo chmod +sx /Applications/Clash\ Verge.app/Contents/MacOS/clash-meta
 
 问题2：线路有延迟但是浏览器无法打开google.com等国外网站<br/>
 解决办法：
-- 设置为系统代理，有没勾选上，检查一下。
+- 设置为系统代理，有没勾选上，检查一下，如果已勾选，试下取消勾选再重新勾选。
 - 有延迟的线路肯定能用的。试下能不能打开https://ip.sb ? 有没显示国外的IP? 如果显示国内IP，那是浏览器设置问题，把chrome跟代理相关的插件停用就行了，不知道哪个就用排除法。或者换其他浏览器试下。
+- 如果还不行，开启tun模式试下。
+- 如果tun模式开启了也不行，[点我终极解决办法](/others/omega.md.md)
+
+问题3：退出软件后，浏览器什么网站都打不开<br/>
+解决办法：
+- 退出软件之前，先取消勾选`System Proxy(系统代理)`
