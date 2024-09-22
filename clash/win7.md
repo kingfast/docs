@@ -3,15 +3,17 @@ Windows 7 无法使用
 
 ### 解决方案0：
 
-使用教程参考clash verge的，差不多，如果无法安装，截图报错界面，提交工单
 
-试下这个clash版本：
+使用下面这个clash版本mihono-party，如果无法安装，截图报错界面，提交工单
 
-https://github.com/mihomo-party-org/mihomo-party/releases/download/v1.3.0/mihomo-party-win7-1.3.0-x64-setup.exe
 
-备用下载链接：
+下载地址：
+https://file.o4o.win/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64-setup.exe
 
-https://file.o4o.win/clash/others/mihomo-party-win7-1.3.0-x64-setup.exe
+备用下载地址：
+http://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64-setup.exe
+
+[mihomo-party简易使用教程](/clash/mihomo.md)
 
 ### 解决方案1：
 
