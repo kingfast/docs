@@ -28,6 +28,8 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 | [windows64位备用下载2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | 
 | [windows64位备用下载3](https://wwst.lanzouk.com/idNfa283hn6f) | 
 
+安装提示webview2的问题，下载[此版本](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_1.7.7_x64_fixed_webview2-setup.exe)
+
 Clash Verge安装/运行不正常（闪退，不显示等），到"控制面板/应用管理"修复或下载安装Webview 2：https://go.microsoft.com/fwlink/p/?LinkId=2124703
 
 如Webview2安装失败，请下载常青独立安装程序，右键“管理员模式运行”安装包：https://developer.microsoft.com/zh-cn/microsoft-edge/webview2
