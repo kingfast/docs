@@ -2,7 +2,7 @@
 
 !> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能查过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。可以打开https://time.is 对比一下时间。
 
->singbox订阅的线路和clash一样的，都是v2ray线路和trojan线路，功能有些差异，可以对比都试试。
+>singbox订阅的线路和clash订阅一样的，可以对比都试试。
 
 ### 0、首先在官网购买一个套餐
 
@@ -12,17 +12,19 @@
 
 > ios客户端下载地址: 
 
-用美区ios账号搜索`sing-box`免费下载,获取美区账号教程看[这里](/ssr/ios.md)
+用美区ios账号搜索`sing-box`免费下载，获取美区账号教程看[这里](/ssr/ios.md)
 
-由于开发者证书问题，iOS端singbox在applestore暂时下架，未安装singbox的iPhone目前暂时无法使用，预计到9月中旬恢复，请关注本教程。
+[美区AppStore地址](https://apps.apple.com/us/app/sing-box-vt/id6673731168)
 
-其他免费的软件可以搜索`Karing`，支持clash订阅和singbox订阅
+![](/img/singboxios/singbox.png)
+
+<!-- 其他免费的软件可以搜索`Karing`，支持clash订阅和singbox订阅 -->
 
 > 安卓客户端下载地址: 
 
-https://file.o4o.win/singbox/SFA-1.9.4-universal.apk (版本1.9.4)
+https://file.o4o.win/singbox/SFA-1.9.6-universal.apk (版本1.9.6)
 
-http://file.helloking.top/singbox/SFA-1.9.4-universal.apk (版本1.9.4)
+http://file.helloking.top/singbox/SFA-1.9.6-universal.apk (版本1.9.6)
 
 ---
 
