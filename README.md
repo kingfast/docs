@@ -12,7 +12,7 @@
 
 > 对教程有疑问或者建议请去官网提交工单。
 
-> [常见使用问题](https://www.zybuluo.com/hellozubuluo/note/1719955)
+> [常见使用问题](/others/fix.md)
 
 - [clash订阅使用教程](/clash/)
     - [windows](/clash/windows.md)
