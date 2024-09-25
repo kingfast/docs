@@ -8,7 +8,7 @@
 ### 1、下载客户端APP
 >要求Android 7.0+
 
-> ClashMetaForAndroid客户端下载地址: 
+> ClashMetaForAndroid客户端下载地址(2024年9月更新): 
 
 clash安卓软件下载地址：https://file.o4o.win/clash/android/cmfa-2.10.4-meta-universal-release.apk (版本2.10.4)
 
