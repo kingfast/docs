@@ -27,7 +27,7 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 | ------ | ------ |
 | [windows64位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_1.7.7_x64-setup.exe) | [windows32位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_1.7.7_x86-setup.exe) | 
 | [windows64位备用下载1](http://file.helloking.top/clash/clash-verge/windows/Clash.Verge_1.7.7_x64-setup.exe) | [windows32位备用下载1](http://file.helloking.top/clash/clash-verge/windows/Clash.Verge_1.7.7_x86-setup.exe) | 
-| [windows64位备用下载2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | [windows32位备用下载2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
+| [windows64位备用下载2](https://ghp.ci/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | [windows32位备用下载2](https://ghp.ci/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
 
 安装提示webview2的问题，下载[此版本](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_1.7.7_x64_fixed_webview2-setup.exe)
 

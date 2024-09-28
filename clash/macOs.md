@@ -42,7 +42,7 @@ sudo spctl --master-disable
 | ------ | ------ |
 | [Mac M芯片下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [Mac Intel下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
 | [Mac M芯片备用下载1](http://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [Mac Intel下载备用下载1](http://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
-| [Mac M芯片备用下载2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) | [Mac Intel下载备用下载2](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) | 
+| [Mac M芯片备用下载2](https://ghp.ci/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) | [Mac Intel下载备用下载2](https://ghp.ci/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) | 
 
 如果是带刘海的屏幕的MacBook，`可能`打开之后，看不到顶部的图标，可以安装`Bartender`软件就能看到了
 
