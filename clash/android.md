@@ -6,7 +6,6 @@
 
 
 ### 1、下载客户端APP
->要求Android 7.0+
 
 > ClashMetaForAndroid客户端下载地址(2024.9更新): 
 
