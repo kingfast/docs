@@ -13,7 +13,7 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 #### 2、下载客户端版本安装
 
-> 客户端下载地址:
+> 客户端下载地址（2024.9更新）:
 
 !> Clash Verge不支持Win7，需要升级Win10或11。
 
