@@ -1,14 +1,14 @@
 - [clash订阅使用教程](/clash/)
     - [windows](/clash/windows.md)
     - [macOs](/clash/macOs.md)
-    - [ios](/clash/ios.md)
+    - [ios（iPhone、iPad）](/clash/ios.md)
     - [android](/clash/android.md)
     - [linux](/clash/linux.md)
 
 - [SSR订阅使用教程](/ssr/)
     - [windows](/ssr/windows.md)
     - [macOs](/ssr/macOs.md)
-    - [ios](/ssr/ios.md)
+    - [ios（iPhone、iPad）](/ssr/ios.md)
     - [android](/ssr/android.md)
     - [linux](/ssr/linux.md)
 

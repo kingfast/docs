@@ -6,7 +6,7 @@
 
 - [windows教程](/clash/windows.md)
 - [macOs教程](/clash/macOs.md)
-- [ios教程](/clash/ios.md)
+- [ios（iPhone、iPad）教程](/clash/ios.md)
 - [android教程](/clash/android.md)
 - [linux教程](/clash/linux.md)
 

@@ -16,7 +16,7 @@ http://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64
 [mihomo-party简易使用教程](/clash/mihomo.md)
 
 
-### 解决方案2：
+### 解决方案2(复杂，建议看上面方案1)：
 
 0、下载这个`带webview2的clash verge`版本安装
 
