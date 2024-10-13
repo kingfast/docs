@@ -1,6 +1,6 @@
 # kingfast使用教程
 
-#### 目前推荐使用clash订阅和ssr订阅，建议都试下，看下哪个更适用你的网络环境。
+#### 目前推荐使用clash订阅，所有线路都试下，看下哪个更适用你的网络环境。
 
 <!-- <p class="tip">你的<strong>订阅链接</strong>非常重要，不支持修改，务必不要泄露。</p> -->
 
@@ -14,14 +14,14 @@
 
 > [常见使用问题](/others/fix.md)
 
-- [clash订阅使用教程](/clash/)
+- [clash订阅使用教程（推荐）](/clash/)
     - [windows](/clash/windows.md)
     - [macOs](/clash/macOs.md)
     - [ios](/clash/ios.md)
     - [android](/clash/android.md)
     - [linux](/clash/linux.md)
 
-- [SSR订阅使用教程](/ssr/)
+- [SSR订阅使用教程（2024年底下线）](/ssr/)
     - [windows](/ssr/windows.md)
     - [macOs](/ssr/macOs.md)
     - [ios](/ssr/ios.md)
