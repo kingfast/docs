@@ -4,6 +4,7 @@
     - [ios（iPhone、iPad）](/clash/ios.md)
     - [android](/clash/android.md)
     - [linux](/clash/linux.md)
+    - [路由器](/clash/router.md)
 
 - [SSR订阅使用教程](/ssr/)
     - [windows](/ssr/windows.md)
