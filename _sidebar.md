@@ -6,7 +6,7 @@
     - [linux](/clash/linux.md)
     - [路由器](/clash/router.md)
 
-- [SSR订阅使用教程](/ssr/)
+- [SSR订阅使用教程（2024年底停止支持）](/ssr/)
     - [windows](/ssr/windows.md)
     - [macOs](/ssr/macOs.md)
     - [ios（iPhone、iPad）](/ssr/ios.md)
@@ -28,7 +28,7 @@
     - [linux](/trojan/linux.md) -->
 
 - [其他教程](/others/)
-    - [others](/others/others.md)
+    - [proxy](/others/others.md)
     - [terminal](/others/terminal.md)
     - [tiktok](/others/tiktok.md)
     - [quanx](/others/quanx.md)
