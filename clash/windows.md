@@ -13,8 +13,6 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 #### 2、下载客户端版本安装
 
-> 客户端下载地址（2024.9更新）:
-
 !> Clash Verge不支持Win7，需要升级Win10或11。
 
 !> win7参考这个教程：[win7教程](/clash/win7.md)
@@ -22,6 +20,8 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 **Clash Verge软件版本1.7.7** (更新版本不一定兼容，升级后如果出现问题回退到这个版本)
 
 不知道系统是多少位的普通用户安装64的就行，如果不行再换32位的。
+
+> 客户端下载地址（2024.9更新）:
 
 | windows64位 | windows32位
 | ------ | ------ |

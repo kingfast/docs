@@ -9,9 +9,9 @@
 
 > ClashMetaForAndroid客户端下载地址(2024.9更新): 
 
-clash安卓软件下载地址：https://file.o4o.win/clash/android/cmfa-2.10.4-meta-universal-release.apk (版本2.10.4)
+clash安卓软件下载地址1：https://file.o4o.win/clash/android/cmfa-2.10.4-meta-universal-release.apk (版本2.10.4)
 
-clash安卓软件下载地址：http://file.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk (版本2.10.4)
+clash安卓软件下载地址2：http://file.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk (版本2.10.4)
 
 经测试，发现小米手机自带浏览器可能下载上面软件下不动，去应用商店下载“夸克”，然后用夸克浏览器就可以下载了。
 
