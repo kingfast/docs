@@ -9,21 +9,22 @@
 
 > ClashMetaForAndroid客户端下载地址(2024.9更新): 
 
-clash安卓软件下载地址1：https://file.o4o.win/clash/android/cmfa-2.10.4-meta-universal-release.apk (版本2.10.4)
+![](/img/android/clash_meta.png)
 
-clash安卓软件下载地址2：http://file.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk (版本2.10.4)
+| 版本2.10.4 |
+| ------ |
+| [下载地址1](https://file.o4o.win/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
+| [下载地址2](http://file.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
+| [下载地址3](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.10.4/cmfa-2.10.4-meta-universal-release.apk) |
+| [下载地址4](https://ghp.ci/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.10.4/cmfa-2.10.4-meta-universal-release.apk) |
 
-经测试，发现小米手机自带浏览器可能下载上面软件下不动，去应用商店下载“夸克”，然后用夸克浏览器就可以下载了。
+https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （github最新版本，不建议，不保证能用）
 
-FlClash也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/chen08209/FlClash/releases)
+经测试，发现小米手机自带浏览器可能下载上面软件下不动，去应用商店下载`夸克`，然后用夸克浏览器就可以下载了。
+
+`FlClash`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/chen08209/FlClash/releases)
 
 ---
-
-https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （官方最新版本，不建议，不保证能用）
-
-> 客户端项目地址：
-
-https://github.com/MetaCubeX/ClashMetaForAndroid/
 
 ### 2、获取clash订阅链接
 > 在`产品管理 > 管理`里面找到`clash订阅链接`复制，可以点击`点我复制`按钮，安装好软件也可以`一键导入clash`。
