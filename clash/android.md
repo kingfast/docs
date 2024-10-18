@@ -15,6 +15,8 @@ clash安卓软件下载地址2：http://file.helloking.top/clash/android/cmfa-2.
 
 经测试，发现小米手机自带浏览器可能下载上面软件下不动，去应用商店下载“夸克”，然后用夸克浏览器就可以下载了。
 
+FlClash也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/chen08209/FlClash/releases)
+
 ---
 
 https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （官方最新版本，不建议，不保证能用）
