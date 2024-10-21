@@ -24,6 +24,8 @@ https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （github最新版本
 
 `FlClash`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/chen08209/FlClash/releases)
 
+`hiddify`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/hiddify/hiddify-next/releases/)
+
 ---
 
 ### 2、获取clash订阅链接
