@@ -3,50 +3,55 @@
 !> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能查过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。可以打开https://time.is 对比一下时间。
 
 
-## clash gui版本使用
+## clash gui版本使用  （推荐）
 - `clash verge rev` [项目地址](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v1.7.7) 自行下载自己linux发行版的安装包安装，使用教程参考windows的
 
 <!-- https://archive.org/details/clash_for_windows_pkg -->
 
-## clash命令行版本配合web ui教程 （推荐）
-我们直接使用Clash Core，首先到Github下载Clash Core（Clash作者已经提供了各个平台的预编译文件），`选择自己对应的平台下载就行`，linux一般下载`clash-linux-amd64-xxx`。这里我使用的是`clash-darwin-amd64-v0.20.0`。下载解压出来你会得到一个`clash-darwin-amd64-v0.20.0`的二进制文件，为了便于接下来的操作我们把他重命名为`clash`。
+## 其他可以用客户端（自行研究）
+
+- https://github.com/juewuy/ShellCrash
+- https://github.com/JohanChane/clashtui/blob/main/README_ZH.md
+- https://github.com/GUI-for-Cores/GUI.for.Clash
+
+## clash命令行版本配合web ui教程
+我们直接使用Clash Core，首先到Github下载Clash Core（Clash作者已经提供了各个平台的预编译文件），`选择自己对应的平台下载就行`，linux一般下载`mihomo-linux-amd64-xxx`。这里我使用的是`mihomo-darwin-arm64-v1.18.9`，以macos 为例子。下载解压出来你会得到一个`mihomo-darwin-arm64-v1.18.9`的二进制文件，为了便于接下来的操作我们把他重命名为`clash_meta`。
 
 <!-- > 下载地址：https://github.com/Dreamacro/clash/releases -->
 
-> 下载地址：https://github.com/doreamon-design/clash/releases (clash内核，停止维护)
+<!-- > 下载地址：https://github.com/doreamon-design/clash/releases (clash内核，停止维护) -->
 
-> 下载地址： https://github.com/MetaCubeX/mihomo/releases （clash meta内核，推荐使用这个）
+> 下载地址： https://github.com/MetaCubeX/mihomo/releases （clash meta内核）
 
-下载Clash Core 二进制可执行文件
+下载二进制可执行文件
 
 ```
-wget -c https://github.com/Dreamacro/clash/releases/download/v0.20.0/clash-darwin-amd64-v0.20.0.gz
+wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.9/mihomo-darwin-arm64-v1.18.9.gz
 ```
 
 解压并且重命名
 
 ```
-gzip -d clash-darwin-amd64-v0.20.0.gz && mv clash-darwin-amd64-v0.20.0 clash
+gunzip mihomo-darwin-arm64-v1.18.9.gz && mv mihomo-darwin-arm64-v1.18.9 clash_meta
 ```
 
 赋予执行权限
 
 ```
-chmod +x clash 
+chmod +x clash_meta
 ```
 
 打开产品管理用户中心，前往套餐详情页复制`clash订阅链接`
 
 ```
 mkdir -p $HOME/.config/clash
-wget -O $HOME/.config/clash/config.yaml  你的clash订阅链接
+wget -O $HOME/.config/clash/kingfast.yaml  你的clash订阅链接
 ```
 
-运行Clash 会默认读取 `$HOME/.config/clash` 目录下的 `config.yaml` 文件，把下载的配置文件放在这个目录内。
-
+指定刚才下载的配置文件运行可执行文件
 
 ```
-./clash
+./clash_meta -f $HOME/.config/clash/kingfast.yaml
 ```
 
 成功如下图：
@@ -62,7 +67,7 @@ wget -O $HOME/.config/clash/config.yaml  你的clash订阅链接
 
 #### 通过web控制面板RESTful API切换节点和模式，可用下面两个来控制。
 
-https://clash.razord.top 或者 https://yacd.haishan.me 
+https://d.metacubex.one/ 或者 https://yacd.metacubex.one/
 
 >这里我以第一个为例，设置好外部控制，默认配置文件RESTful API端口是`9090`，密钥为空。
 
