@@ -11,7 +11,7 @@
 #### 2、下载客户端软件
 `shadowrocket`（认清楚下面的图标和名字）(售价2.99美元)
 
->需要免费的ios客户端，也可以看[singbox教程](/others/singbox.md)，但是没小火箭shadowrocket简单好用，推荐小火箭，一次购买，终身更新，价格也便宜。
+>需要免费的ios客户端，也可以看[singbox教程](/others/singbox.md) 和[hiddify教程](/others/hiddify.md)，但是没小火箭shadowrocket简单好用，推荐小火箭，一次购买，终身更新，价格也便宜。
 
 ![image.png](/img/ios1.png)
 
