@@ -26,7 +26,14 @@
 下载二进制可执行文件
 
 ```
+# macos arm64
 wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.9/mihomo-darwin-arm64-v1.18.9.gz
+
+# linux amd64 x86
+wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.9/mihomo-linux-amd64-v1.18.9.gz
+
+# linux arm64
+wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.9/mihomo-linux-arm64-v1.18.9.gz
 ```
 
 解压并且重命名
