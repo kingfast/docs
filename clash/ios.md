@@ -11,7 +11,7 @@
 #### 2、下载客户端软件
 `shadowrocket`（认清楚下面的图标和名字）(售价2.99美元)
 
->需要免费的ios客户端，也可以看[singbox教程](/others/singbox.md) 和[hiddify教程](/others/hiddify.md)，但是没小火箭shadowrocket简单好用，推荐小火箭，一次购买，终身更新，价格也便宜。
+>需要免费的ios客户端，也可以看[singbox教程](/others/singbox.md) 、[hiddify教程](/others/hiddify.md) 和 [karing教程](/others/karing.md)，但是没`小火箭shadowrocket`简单好用，推荐小火箭，一次购买，终身更新，价格也便宜。
 
 ![image.png](/img/ios1.png)
 
@@ -42,7 +42,7 @@
     2. （方法2）去苹果官网买，可以自定义金额，最低10美元，银联支付
         - 购买地址：https://www.apple.com/us-edu/shop/buy-giftcard/giftcard
 
-- **步骤3：** （下策，不推荐）图方便的话，可以买个美区ios账号自行支付宝充值（封号风险较小），也可以买个已经购买了小火箭app的美区IOS账号（如果是黑卡充值购买的，封号风险较大），收集了一些购买地址（不做推荐，利益无关，风险自担『账号里的小火箭可能是黑卡充值购买的，过阵子就被苹果封号』，有问题自行联系对应网址的卖家，不要提工单找我，强烈建议按照上面步骤自己注册充值）[地址1](https://80lp.com/)  [地址2](https://fk.myue.cc/) [地址3](https://www.rocketgirls.space/) [地址4](https://xinstore.org/#/)
+- **步骤3：** （下策，不推荐）图方便的话，可以买个美区ios账号自行支付宝充值（封号风险较小），也可以买个已经购买了小火箭app的美区IOS账号（如果是黑卡充值购买的，封号风险较大），收集了一些购买地址（不做推荐，利益无关，风险自担『账号里的小火箭可能是黑卡充值购买的，过阵子就被苹果封号』，有问题自行联系对应网址的卖家，不要提工单找我，强烈建议按照上面步骤自己注册充值）[免费ios账号](/others/freeios.md) [地址1](https://80lp.com/)  [地址2](https://fk.myue.cc/) [地址3](https://www.rocketgirls.space/) [地址4](https://xinstore.org/#/)
 <!-- [地址4](http://www.gakkismile.icu/) -->
 
 
