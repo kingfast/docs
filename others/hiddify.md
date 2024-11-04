@@ -23,6 +23,18 @@ https://file.o4o.win/hiddify/Hiddify-Android-universal.apk
 
 http://file.helloking.top/hiddify/Hiddify-Android-universal.apk 
 
+> 苹果电脑客户端下载地址: 
+
+https://file.o4o.win/hiddify/Hiddify-MacOS.dmg
+
+http://file.helloking.top/hiddify/Hiddify-MacOS.dmg
+
+> windows电脑客户端下载地址: 
+
+https://file.o4o.win/hiddify/Hiddify-Windows-Setup-x64.exe
+
+http://file.helloking.top/hiddify/Hiddify-Windows-Setup-x64.exe
+
 
 ### 2、获取clash订阅链接
 > 在`产品管理 > 管理`里面找到`clash订阅链接`复制，可以点击`点我复制`按钮。
