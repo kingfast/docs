@@ -21,6 +21,9 @@ https://file.o4o.win/chrome/zeroomega-3.3.11.crx
 ![](/img/omega/c4.png)
 
 #### 5、进行如下图的设置
+
+##### `代理协议`选择`socks5`，`代理地址`填写`127.0.0.1`，`代理端口`填写`7897` （默认是7897，没改过的话）
+
 ![](/img/omega/c5.png)
 
 #### 6、切换到proxy模式
