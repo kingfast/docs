@@ -10,6 +10,7 @@
 - [hiddify教程](/others/hiddify.md)
 - [karing教程](/others/karing.md)
 - [omega插件教程](/others/omega.md)
+- [docker使用教程](/others/docker.md)
 
 > 对教程有疑问或者建议请去官网提交工单。
 
