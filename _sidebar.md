@@ -27,10 +27,4 @@
     - [android](/trojan/android.md)
     - [linux](/trojan/linux.md) -->
 
-- [其他教程](/others/)
-    - [proxy](/others/others.md)
-    - [terminal](/others/terminal.md)
-    - [tiktok](/others/tiktok.md)
-    - [quanx](/others/quanx.md)
-    - [surfboard](/others/surfboard.md)
-    - [singbox](/others/singbox.md)
+- [其他教程汇总](/others/)
