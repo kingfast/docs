@@ -53,6 +53,9 @@ https://github.com/SagerNet/sing-box/releases （官方最新版本，不保证�
 ![](/img/singboxios/s3.png)
 ![](/img/singboxios/s4.png)
 ![](/img/singboxios/s5.png)
+
+!> 第一次启动需要从github下载一个geoip的文件，如果你网络不支持直接访问github，就会启动失败，可以流量和WiFi都试下，不行就换其他软件。
+
 ![](/img/singboxios/s6.png)
 ![](/img/singboxios/s7.png)
 
