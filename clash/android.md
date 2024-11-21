@@ -49,6 +49,9 @@ https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （github最新版本
 > 启动后，可以点击`代理`进去选择节点
 
 ![](/img/android/10.png)
+
+!> 测试延迟仅供检验是否连通，不能用作速度快慢的参考，快慢要以你实际体验为准，同一个线路不同运营商不同地区速度都不一样，建议测试不同的线路对比。
+
 ![](/img/android/11.png)
 
 > 切换规则模式和全局模式方法
