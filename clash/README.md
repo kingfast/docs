@@ -8,6 +8,7 @@
 - [macOs教程](/clash/macOs.md)
 - [ios（iPhone、iPad）教程](/clash/ios.md)
 - [android教程](/clash/android.md)
+- [鸿蒙Next手机平板(Harmony Next)](/clash/harmony.md)
 - [linux教程](/clash/linux.md)
 
 > 对教程有疑问或者建议请去官网提交工单。

@@ -3,6 +3,7 @@
     - [macOs](/clash/macOs.md)
     - [ios（iPhone、iPad）](/clash/ios.md)
     - [android](/clash/android.md)
+    - [鸿蒙Next手机平板(Harmony Next)](/clash/harmony.md)
     - [linux](/clash/linux.md)
     - [路由器](/clash/router.md)
 
