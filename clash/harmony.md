@@ -28,8 +28,8 @@
 
 | Auto installer(Windows安装) | Clash meta |
 | ------ | ------ |
-| [点我下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [Mac Intel下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
-| [Mac M芯片备用下载1](http://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [点我下载](http://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
+| [点我下载](https://file.o4o.win/clash/harmony/AutoInstaller.Setup.1.2.0.exe) | [点我下载](https://file.o4o.win/clash/harmony/entry-default-signed.hap) |
+| [点我下载](https://dl.fastconnect.cc/https://github.com/likuai2010/auto-installer/releases/download/1.2.0/AutoInstaller.Setup.1.2.0.exe) | [点我下载](https://fajskdasl.lanzouv.com/iXXJJ2gxejsd) |
 
 ### 安装软件
 
