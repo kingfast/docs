@@ -1,7 +1,7 @@
 
 Windows 7 无法使用
 
-### 解决方案1(推荐)：
+### 解决方案：
 
 
 使用下面这个clash版本`mihono-party`，如果无法安装，截图报错界面，提交工单
@@ -16,7 +16,7 @@ http://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64
 [mihomo-party简易使用教程](/clash/mihomo.md)
 
 
-### 解决方案2(复杂，建议看上面方案1)：
+<!-- ### 解决方案2(复杂，建议看上面方案1)：
 
 0、下载这个`带webview2的clash verge`版本安装
 
@@ -36,7 +36,7 @@ https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_1.7.7_x64_fixed_webvi
 | resources\uninstall-service.exe | 
 
 [参考1](https://www.cnblogs.com/damonlog/articles/18257596)
-[参考2](https://www.clashverge.dev/faq/windows.html)
+[参考2](https://www.clashverge.dev/faq/windows.html) -->
 
 
 <!-- ### 解决方案2： -->
