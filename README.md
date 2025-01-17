@@ -22,12 +22,12 @@
     - [linux](/clash/linux.md)
     - [路由器](/clash/router.md)
 
-- [SSR订阅使用教程（2024年底停止支持）](/ssr/)
+<!-- - [SSR订阅使用教程（2024年底停止支持）](/ssr/)
     - [windows](/ssr/windows.md)
     - [macOs](/ssr/macOs.md)
     - [ios](/ssr/ios.md)
     - [android](/ssr/android.md)
-    - [linux](/ssr/linux.md)
+    - [linux](/ssr/linux.md) -->
 
 <!-- - [v2ray订阅使用教程](/v2ray/)
     - [windows](/v2ray/windows.md)
