@@ -7,11 +7,18 @@ Windows 7 无法使用
 使用下面这个clash版本`mihono-party`，如果无法安装，截图报错界面，提交工单
 
 
-下载地址：
-https://file.o4o.win/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64-setup.exe
+64位下载地址：
+https://file.o4o.win/clash/mihono-party/windows/mihomo-party-win7-1.6.0-x64-setup.exe
 
-备用下载地址：
-http://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64-setup.exe
+32位下载地址：
+https://file.o4o.win/clash/mihono-party/windows/mihomo-party-win7-1.6.0-ia32-setup.exe
+
+
+64位备用下载地址：
+http://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-x64-setup.exe
+
+32位备用下载地址：
+http://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-ia32-setup.exe
 
 [mihomo-party简易使用教程](/clash/mihomo.md)
 
