@@ -39,6 +39,8 @@ https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （github最新版本
 
 > 在`产品管理 > 管理`里面找到`clash订阅链接`复制，可以点击`点我复制`按钮。
 
+!> 如果导入失败，尝试将订阅链接里面的`sub.o4o`替换成`sub2.o4o`，或者将`sub.o4o`替换成`sub.o44o`再试下，还是不行，联系客服。
+
 ![](/img/android/41.png)
 ![](/img/android/5.png)
 ![](/img/android/6.png)
