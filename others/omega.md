@@ -6,7 +6,9 @@
 
 插件下载地址：
 
-https://file.o4o.win/chrome/zeroomega-3.3.11.crx
+地址1：https://file.o4o.win/chrome/zeroomega-3.3.11.crx
+
+地址2：https://file.helloking.top/chrome/zeroomega-3.3.11.crx
 
 #### 1、chrome浏览器，打开设置 -> 扩展程序 -> 管理扩展程序
 ![](/img/omega/c1.png)
