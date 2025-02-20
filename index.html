@@ -29,6 +29,16 @@
     }
   </script> -->
   <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(registrations  => {
+        for (let registration of registrations) {
+          registration.unregister(); 
+          console.log('ServiceWorker 已注销:', registration.scope); 
+        }
+      });
+    }
+  </script>
+  <script>
     window.$docsify = {
       loadSidebar: true,
       subMaxLevel: 2,
