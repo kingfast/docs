@@ -51,14 +51,20 @@ chmod +x clash_meta
 打开产品管理用户中心，前往套餐详情页复制`clash订阅链接`
 
 ```
-mkdir -p $HOME/.config/clash
-wget -O $HOME/.config/clash/kingfast.yaml  你的clash订阅链接
+# 创建目录，路径必须和教程一模一样
+mkdir -p $HOME/.config/mihomo 
+wget -O $HOME/.config/mihomo/kingfast.yaml  你的clash订阅链接
 ```
 
 指定刚才下载的配置文件运行可执行文件
 
 ```
-./clash_meta -f $HOME/.config/clash/kingfast.yaml
+./clash_meta -f $HOME/.config/mihomo/kingfast.yaml
+```
+
+!> 如果报错提示`Can't find MMDB, start download`，最后下载失败的话，执行下面命令后，重新跑上面的命令。
+```
+wget -P ~/.config/mihomo http://tmp.o3o.top/GbGUr/geoip.metadb 
 ```
 
 成功如下图：
@@ -67,7 +73,8 @@ wget -O $HOME/.config/clash/kingfast.yaml  你的clash订阅链接
 
 可以看到clash创建了前置代理，http代理端口为：`7890` ，socks5代理端口为：`7891` ，RESTful API的端口是`9090` `(这些端口不同版本可能不一样，实际以终端输入的为准)`
 
-这个时候在chrome浏览器或者firefox浏览器的`SwitchyOmega`插件里配一下代理就行了，如下图。
+这个时候在chrome浏览器或者firefox浏览器的`SwitchyOmega`或者`Zero Omega`插件里配一下代理就行了，如下图。
+[Zero Omega插件安装教程](/others/omega.md)
 
 ![](/img/linux2.png)
 
