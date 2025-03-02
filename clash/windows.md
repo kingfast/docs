@@ -27,7 +27,7 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 | ------ | ------ |
 | [1.7.7版本64位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_1.7.7_x64-setup.exe) | [1.7.7版本32位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_1.7.7_x86-setup.exe) | 
 | [1.7.7版本64位备用下载1](http://file.helloking.top/clash/clash-verge/windows/Clash.Verge_1.7.7_x64-setup.exe) | [1.7.7版本32位备用下载1](http://file.helloking.top/clash/clash-verge/windows/Clash.Verge_1.7.7_x86-setup.exe) | 
-| [1.7.7版本64位备用下载2](https://ghp.ci/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | [1.7.7版本32位备用下载2](https://ghp.ci/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
+| [1.7.7版本64位备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) | [1.7.7版本32位备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x86-setup.exe) |
 | [2.1.0版本64位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_2.1.0_x64-setup.exe) | [2.1.0版本32位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_2.1.0_x86_fixed_webview2-setup.exe) | 
 | [2.1.0版本64位备用下载1](http://file.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.0_x64-setup.exe) | [2.1.0版本32位备用下载1](http://file.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.0_x86_fixed_webview2-setup.exe) |
 
