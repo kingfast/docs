@@ -41,6 +41,7 @@ sudo spctl --master-disable
 | Mac M芯片 | Mac Intel芯片 |
 | ------ | ------ |
 | [1.7.7版本M芯片下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [1.7.7版本Intel下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
+| [1.7.7版本M芯片备用下载](http://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [1.7.7版本Intel下载备用下载](http://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
 | [1.7.7版本M芯片备用下载1](http://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [1.7.7版本Intel下载备用下载1](http://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
 | [1.7.7版本M芯片备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) | [1.7.7版本Intel下载备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64.dmg) | 
 | [2.1.0版本M芯片下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_2.1.0_aarch64.dmg) | [2.1.0版本Intel下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_2.1.0_x64.dmg) |
