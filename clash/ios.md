@@ -9,7 +9,7 @@
 #### 1、首先在官网的产品订购处订购一个套餐
 
 #### 2、下载客户端软件
-`shadowrocket`（认清楚下面的图标和名字）(售价2.99美元) [点击跳转商店](https://apps.apple.com/us/app/shadowrocket/id932747118)
+`shadowrocket`（认清楚下面的图标和名字）(售价2.99美元) [美区AppStore地址（用Safari打开）](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 >需要免费的ios客户端，也可以看[singbox教程](/others/singbox.md) 、[hiddify教程](/others/hiddify.md) 和 [karing教程](/others/karing.md)，但是没`小火箭shadowrocket`简单好用，推荐小火箭，一次购买，终身更新，价格也便宜。
 
