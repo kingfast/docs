@@ -26,7 +26,7 @@ sudo spctl --master-disable
 
 https://file.o4o.win/v2ray/macOS/V2rayU.dmg (推荐)
 
-http://file.helloking.top/v2ray/macOS/V2rayU.dmg
+https://file.helloking.top/v2ray/macOS/V2rayU.dmg
 
 ~~https://github.com/yanue/V2rayU/releases/ （官方最新版本不一定适用kingfast）~~
 

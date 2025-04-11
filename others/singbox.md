@@ -24,19 +24,19 @@
 
 https://file.o4o.win/singbox/SFA-1.9.6-universal.apk (版本1.9.6)
 
-http://file.helloking.top/singbox/SFA-1.9.6-universal.apk (版本1.9.6)
+https://file.helloking.top/singbox/SFA-1.9.6-universal.apk (版本1.9.6)
 
 > 苹果电脑客户端下载地址: 
 
 https://file.o4o.win/hiddify/Hiddify-MacOS.dmg
 
-http://file.helloking.top/hiddify/Hiddify-MacOS.dmg
+https://file.helloking.top/hiddify/Hiddify-MacOS.dmg
 
 > windows电脑客户端下载地址: 
 
 https://file.o4o.win/hiddify/Hiddify-Windows-Setup-x64.exe
 
-http://file.helloking.top/hiddify/Hiddify-Windows-Setup-x64.exe
+https://file.helloking.top/hiddify/Hiddify-Windows-Setup-x64.exe
 
 ---
 

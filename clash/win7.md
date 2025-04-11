@@ -15,10 +15,10 @@ https://file.o4o.win/clash/mihono-party/windows/mihomo-party-win7-1.6.0-ia32-set
 
 
 64位备用下载地址：
-http://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-x64-setup.exe
+https://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-x64-setup.exe
 
 32位备用下载地址：
-http://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-ia32-setup.exe
+https://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-ia32-setup.exe
 
 [mihomo-party简易使用教程](/clash/mihomo.md)
 

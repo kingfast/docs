@@ -36,4 +36,4 @@ https://jiasupanda.com/tiktok-use
 
 https://file.o4o.win/others/tiktok.apk
 
-备用地址：http://file.helloking.top/others/tiktok.apk
+备用地址：https://file.helloking.top/others/tiktok.apk

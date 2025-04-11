@@ -21,11 +21,11 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 clash软件下载地址： https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.20.19.exe （版本0.20.19, 64位的电脑）
 
-clash软件下载地址： http://file.helloking.top/clash/windows/Clash.for.Windows.Setup.0.20.19.exe （版本0.20.19，64位的电脑）
+clash软件下载地址： https://file.helloking.top/clash/windows/Clash.for.Windows.Setup.0.20.19.exe （版本0.20.19，64位的电脑）
 
 clash软件下载地址： https://file.o4o.win/clash/windows/Clash.for.Windows.Setup.0.20.19.ia32.exe （版本0.20.19，32位的电脑）
 
-clash软件下载地址： http://file.helloking.top/clash/windows/Clash.for.Windows.Setup.0.20.19.ia32.exe （版本0.20.19，32位的电脑）
+clash软件下载地址： https://file.helloking.top/clash/windows/Clash.for.Windows.Setup.0.20.19.ia32.exe （版本0.20.19，32位的电脑）
 
 ---
 

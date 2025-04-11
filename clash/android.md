@@ -14,8 +14,8 @@
 | 版本2.10.4 |
 | ------ |
 | [下载地址1](https://file.o4o.win/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
-| [下载地址2](http://file.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
-| [下载地址3](http://file2.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
+| [下载地址2](https://file.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
+| [下载地址3](https://file2.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
 | [下载地址4](https://gh-proxy.com/github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.10.4/cmfa-2.10.4-meta-universal-release.apk) |
 | [下载地址5](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.10.4/cmfa-2.10.4-meta-universal-release.apk) |
 
