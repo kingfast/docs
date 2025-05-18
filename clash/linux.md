@@ -5,11 +5,13 @@
 
 ## clash gui版本使用  （推荐）
 - `clash verge rev` [项目地址](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v1.7.7) 自行下载自己linux发行版的安装包安装，使用教程参考windows的
+- `mihomo-party` [项目地址](https://github.com/mihomo-party-org/mihomo-party/releases)
 
 <!-- https://archive.org/details/clash_for_windows_pkg -->
 
 ## 其他可以用客户端（自行研究）
 
+- https://github.com/nelvko/clash-for-linux-install
 - https://github.com/juewuy/ShellCrash
 - https://github.com/JohanChane/clashtui/blob/main/README_ZH.md
 - https://github.com/GUI-for-Cores/GUI.for.Clash
