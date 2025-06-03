@@ -42,7 +42,6 @@ sudo spctl --master-disable
 
 | Mac M芯片 | Mac Intel芯片 |
 | ------ | ------ |
-<!-- | [2.2.2版本M芯片下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_2.2.2_x64.dmg) | -->
 | [2.2.2版本M芯片备用下载](https://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载](https://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_x64.dmg) |
 | [2.2.2版本M芯片备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_x64.dmg) |
 | [2.2.2版本M芯片备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64.dmg) | 

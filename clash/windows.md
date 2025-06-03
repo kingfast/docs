@@ -27,7 +27,6 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 | windows64位 | windows32位
 | ------ | ------ |
-<!-- | [2.1.2版本64位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_2.1.2_x64-setup.exe) | [2.1.2版本32位下载](https://file.o4o.win/clash/clash-verge/windows/Clash.Verge_2.1.2_x86-setup.exe) |  -->
 | [2.1.2版本64位备用下载](https://file2.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.2_x64-setup.exe) | [2.1.2版本32位备用下载](https://file2.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.2_x86-setup.exe) | 
 | [2.1.2版本64位备用下载1](https://file.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.2_x64-setup.exe) | [2.1.2版本32位备用下载1](https://file.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.2_x86-setup.exe) | 
 | [2.1.2版本64位备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe) | [2.1.2版本32位备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x86-setup.exe) |
