@@ -79,7 +79,7 @@
 配置地址
 
 ```
-https://file.o4o.win/rules/sr_top500_whitelist_ad.conf
+https://file.helloking.top/rules/sr_top500_whitelist_ad.conf
 ```
 
 配置备用地址：

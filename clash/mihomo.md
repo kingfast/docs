@@ -4,7 +4,7 @@
 
 | win7 | win10/11 | Mac Intel芯片 | Mac M芯片 |
 |-----|-----|-----|-----|
-| [下载地址1](https://file.o4o.win/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64-setup.exe) | [下载地址1](https://file.o4o.win/clash/mihono-party/windows/mihomo-party-windows-1.3.1-x64-setup.exe) | [下载地址1](https://file.o4o.win/clash/mihono-party/macOs/mihomo-party-macos-1.5.12-x64.pkg) | [下载地址1](https://file.o4o.win/clash/mihono-party/macOs/mihomo-party-macos-1.5.12-arm64.pkg) |
+<!-- | [下载地址1](https://file.o4o.win/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64-setup.exe) | [下载地址1](https://file.o4o.win/clash/mihono-party/windows/mihomo-party-windows-1.3.1-x64-setup.exe) | [下载地址1](https://file.o4o.win/clash/mihono-party/macOs/mihomo-party-macos-1.5.12-x64.pkg) | [下载地址1](https://file.o4o.win/clash/mihono-party/macOs/mihomo-party-macos-1.5.12-arm64.pkg) | -->
 | [下载地址2](https://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.3.1-x64-setup.exe) | [下载地址2](https://file.helloking.top/clash/mihono-party/windows/mihomo-party-windows-1.3.1-x64-setup.exe) | [下载地址2](https://file.helloking.top/clash/mihono-party/macOs/mihomo-party-macos-1.5.12-x64.pkg) | [下载地址2](https://file.helloking.top/clash/mihono-party/macOs/mihomo-party-macos-1.5.12-arm64.pkg) |
 
 
