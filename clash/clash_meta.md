@@ -7,25 +7,24 @@
 
 ### 1、下载客户端APP
 
-> FIClash客户端下载地址(2025.6更新): 
+> ClashMetaForAndroid客户端下载地址(2024.9更新): 
 
-![](/img2/FIClash/FIClash.png)
+![](/img/android/clash_meta.png)
 
-| 版本0.8.84 |
+| 版本2.10.4 |
 | ------ |
-| [下载地址2](https://file.helloking.top/clash/android/https://file.o4o.win/clash/android/FlClash-0.8.84-android-arm64-v8a.apk) |
-| [下载地址3](https://file2.helloking.top/clash/android/https://file.o4o.win/clash/android/FlClash-0.8.84-android-arm64-v8a.apk) |
-| [下载地址4](https://gh-proxy.com/github.com/chen08209/FlClash/releases/download/v0.8.84/FlClash-0.8.84-android-arm64-v8a.apk) |
-| [下载地址5](https://github.com/chen08209/FlClash/releases/download/v0.8.84/FlClash-0.8.84-android-arm64-v8a.apk) |
+| [下载地址2](https://file.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
+| [下载地址3](https://file2.helloking.top/clash/android/cmfa-2.10.4-meta-universal-release.apk) |
+| [下载地址4](https://gh-proxy.com/github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.10.4/cmfa-2.10.4-meta-universal-release.apk) |
+| [下载地址5](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.10.4/cmfa-2.10.4-meta-universal-release.apk) |
 
-https://github.com/chen08209/FlClash/releases （github最新版本，不建议，不保证能用）
+https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （github最新版本，不建议，不保证能用）
 
 经测试，某些安卓手机自带浏览器可能下载上面软件下不动，去应用商店下载`夸克`，然后用夸克浏览器就可以下载了。
 
+`FlClash`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/chen08209/FlClash/releases)
 
 `hiddify`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/hiddify/hiddify-next/releases/)
-
-[旧的clash meta教程](/clash/clash_meta.md)
 
 ---
 
@@ -34,24 +33,33 @@ https://github.com/chen08209/FlClash/releases （github最新版本，不建议�
 
 ### 3、具体使用步骤：
 
-![](/img2/FIClash/f1.png)
-![](/img2/FIClash/f2.png)
-![](/img2/FIClash/f3.png)
+![](/img/android/1.png)
+![](/img/android/2.png)
+![](/img/android/3.png)
 
 > 在`产品管理 > 管理`里面找到`clash订阅链接`复制，可以点击`点我复制`按钮。
 
 !> 如果导入失败，尝试将订阅链接里面的`sub.o4o`替换成`sub2.o4o`，或者将`sub.o4o`替换成`sub.o44o`再试下，还是不行，联系客服。
 
-![](/img2/FIClash/f4.png)
-![](/img2/FIClash/f5.png)
-![](/img2/FIClash/f6.png)
-![](/img2/FIClash/f7.png)
+![](/img/android/41.png)
+![](/img/android/5.png)
+![](/img/android/6.png)
+![](/img/android/7.png)
+![](/img/android/8.png)
+![](/img/android/9.png)
 
 > 启动后，可以点击`代理`进去选择节点
 
-![](/img2/FIClash/f9.png)
+![](/img/android/10.png)
 
 !> 测试延迟仅供检验是否连通，不能用作速度快慢的参考，快慢要以你实际体验为准，同一个线路不同运营商不同地区速度都不一样，建议测试不同的线路对比。
+
+![](/img/android/11.png)
+
+> 切换规则模式和全局模式方法
+
+![](/img/android/12.png)
+![](/img/android/13.png)
 
 #### 规则模式和全局模式的区别
 
