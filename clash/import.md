@@ -4,7 +4,7 @@
 ![](/img2/error_import.png)
 ## 解决办法：
 
- 1. 检查订阅链接是否正确和过期,clash和singbox的别搞混。
+ 1. 检查订阅链接是否正确和过期，clash和singbox的别搞混。
  2. 如果导入失败，尝试将订阅链接里面的域名`xxx.xxx.win`分别替换成`sub.o4o.win`、`sub2.o4o.win`、`sub2.o44o.win`、`sub2.o44o.win`再试下。注意导入的时候，系统代理按钮，需要先关闭。
 
  例如你的订阅是`https://xxx.xxx.win/api/sub/6672bxxxxxxxxxxx?type=clash`，换成`https://sub.o4o.win/api/sub/6672bxxxxxxxxxxx?type=clash`，其他以此类推。
