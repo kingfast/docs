@@ -1,6 +1,10 @@
 # clash订阅鸿蒙Next手机平板(Harmony Next)使用教程
 
 
+2025.8.18更新：
+自行研究下面项目，小白建议放弃，很复杂
+https://github.com/xiaobaigroup/ClashBox
+
 2025.1.27更新：
 
 鸿蒙Next系统可以有安装Apk的渠道→下载卓易通→进入后搜索 搜应用→在搜应用内下载安卓应用可以安装。
