@@ -23,7 +23,7 @@ https://github.com/chen08209/FlClash/releases （github最新版本，不建议�
 经测试，某些安卓手机自带浏览器可能下载上面软件下不动，去应用商店下载`夸克`，然后用夸克浏览器就可以下载了。
 
 
-`hiddify`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/hiddify/hiddify-next/releases/)
+<!-- `hiddify`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/hiddify/hiddify-next/releases/) -->
 
 [旧的clash meta教程](/clash/clash_meta.md)
 
