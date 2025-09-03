@@ -13,8 +13,8 @@
 
 | 版本0.8.84 |
 | ------ |
-| [下载地址2](https://file.helloking.top/clash/android/https://file.o4o.win/clash/android/FlClash-0.8.84-android-arm64-v8a.apk) |
-| [下载地址3](https://file2.helloking.top/clash/android/https://file.o4o.win/clash/android/FlClash-0.8.84-android-arm64-v8a.apk) |
+| [下载地址2](https://file.helloking.top/clash/android/FlClash-0.8.84-android-arm64-v8a.apk) |
+| [下载地址3](https://file2.helloking.top/clash/android/FlClash-0.8.84-android-arm64-v8a.apk) |
 | [下载地址4](https://gh-proxy.com/github.com/chen08209/FlClash/releases/download/v0.8.84/FlClash-0.8.84-android-arm64-v8a.apk) |
 | [下载地址5](https://github.com/chen08209/FlClash/releases/download/v0.8.84/FlClash-0.8.84-android-arm64-v8a.apk) |
 
