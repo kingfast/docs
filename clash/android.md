@@ -7,16 +7,16 @@
 
 ### 1、下载客户端APP
 
-> FIClash客户端下载地址(2025.6更新): 
+> FIClash客户端下载地址(2025.9更新): 
 
 ![](/img2/FIClash/FIClash.png)
 
-| 版本0.8.84 |
+| 版本0.8.87 |
 | ------ |
-| [下载地址2](https://file.helloking.top/clash/android/FlClash-0.8.84-android-arm64-v8a.apk) |
-| [下载地址3](https://file2.helloking.top/clash/android/FlClash-0.8.84-android-arm64-v8a.apk) |
-| [下载地址4](https://gh-proxy.com/github.com/chen08209/FlClash/releases/download/v0.8.84/FlClash-0.8.84-android-arm64-v8a.apk) |
-| [下载地址5](https://github.com/chen08209/FlClash/releases/download/v0.8.84/FlClash-0.8.84-android-arm64-v8a.apk) |
+| [下载地址2](https://file.helloking.top/clash/android/FlClash-0.8.87-android-arm64-v8a.apk) |
+| [下载地址3](https://file2.helloking.top/clash/android/FlClash-0.8.87-android-arm64-v8a.apk) |
+| [下载地址4](https://gh-proxy.com/github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-android-arm64-v8a.apk) |
+| [下载地址5](https://github.com/chen08209/FlClash/releases/download/v0.8.87/FlClash-0.8.87-android-arm64-v8a.apk) |
 
 https://github.com/chen08209/FlClash/releases （github最新版本，不建议，不保证能用）
 
