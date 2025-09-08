@@ -12,3 +12,4 @@
 - https://id001.me/chong.html
 - https://appleid.2479m.com/
 - https://ccbaohe.com/appleID/
+- https://id.bocchi.vip/
