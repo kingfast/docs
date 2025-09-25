@@ -26,7 +26,7 @@ https://github.com/chen08209/FlClash/releases （github最新版本，不建议�
 
 <!-- `hiddify`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/hiddify/hiddify-next/releases/) -->
 
-[旧的clash meta教程](/clash/clash_meta.md)
+[ClashMetaForAndroid教程](/clash/clash_meta.md)
 
 ---
 
