@@ -1,95 +1,96 @@
 # clash订阅鸿蒙Next手机平板(Harmony Next)使用教程
 
+[老版本教程](/clash/harmony_old.md)
 
-2025.8.18更新：
-自行研究下面项目，小白建议放弃，很复杂
-https://github.com/xiaobaigroup/ClashBox
+---
 
-2025.1.27更新：
+本文最后更新时间：2025-12-24
 
-鸿蒙Next系统可以有安装Apk的渠道→下载卓易通→进入后搜索 搜应用→在搜应用内下载安卓应用可以安装。
+Clash Box 下载与安装教程
+为数不多完美适配鸿蒙系统的Clash客户端，同样使用clashmeta内核，支持多种代理协议
 
-的确可以安装安卓应用了，但是华为鸿蒙Next版本的设备 支持安卓应用的两个App安装应用走的是“白名单机制”：
-1️⃣可以安装 X、TG、Instagram、youtube等在华为白名单内的应用（通过出境易、卓易通下载安装）。
-2️⃣无法安装 币圈头部交易所、Clash等翻墙软件 这一些在华为黑名单里的应用。
+[官方仓库↗](https://github.com/xiaobaigroup/ClashBox)
 
-⭐️鸿蒙Next（Hatmony Os 5.0）这一次是真正意义上的底层封禁 不和谐应用，华为在原生鸿蒙版本中不再支持测载！只支持从应用市场安装应用，且使用卓易通和出境易等兼容安卓的应用下载应用时也是完全的白名单机制。
+Clash Box 下载
 
-这边建议各位使用华为设备的小伙伴，不要更新到鸿蒙Next版本的系统，也不要购入后续的原生鸿蒙系统的华为设备。
-❕建议出门用苹果和安卓。
+| 平台 | 版本 | 代理加速 | GitHub直连 | 备用地址
+| ------ | ------ | ------ | ------ |------ |
+| HarmonyOS | 1.5.1 | [下载](https://github.clash.guide/clash-clients/ClashNEXT-LTS-1.5.1.hap) | [下载](https://github.com/xiaobaigroup/ClashBox/releases/download/1.5.1/ClashNEXT-LTS-1.5.1.hap) | [下载](https://file.o4o.win/clash/harmony/ClashNEXT-LTS-1.5.1.hap) |
 
+!>
+提示：
+代理加速：通过跳板机代理Github地址加速访问GitHub，如果GitHub直连太慢的话可以尝试代理加速下载
 
+### ⚠️前情提示
 
-!> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能查过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。可以打开https://time.is 对比一下时间。
+Clash box据说在华为应用市场-港区上线了，没有华为手机无法验证，怎么切换到港区，需要您自己Google。
 
-!> 只支持鸿蒙Next系统（Harmony Next）第三方开发移植，不保证一定可以用。
+本文提供的 Clash Box 并非完全开源而且仅提供.hap文件，.hap文件不能直接安装在鸿蒙系统上，如果您没有自签证书的能力，建议您不要选择用它，可以通过卓易通安装Android应用，达到同样的上网效果。[如何使用桌易通安装Clash Box](https://clash.guide/zyt-clash.html#%E5%8D%93%E6%98%93%E9%80%9A%E5%AE%89%E8%A3%85apk%E5%A4%B1%E8%B4%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
 
-!> 项目Github：https://github.com/likuai2010/ClashMeta/releases
+----
 
-!> 项目Github：https://github.com/likuai2010/auto-installer
+## 安装步骤
 
-### 警告必看⚠️
+### 1、安装应用
 
-- next搭载先进技术，在webview内实现了云端网址安全审查，在用户访问网址时，将访问网址、设备信息、系统语言等内容上传至云端审查，若判定该访问不安全，则显示保护页面，届时可实现实时对特定人群或区域开展防护，针对性和实时性远超现有技术。而next又要求应用必须使用系统组件，所以无论是官方浏览器还是第三方，亦或是有访问网站功能的应用，都不能逃离安全审查，无死角且有效地保护用户，避免用户被危险网站威胁安全。该视频旨在证实该技术存在，以展现next在技术上的先进性，自主性和可控性
+#### 应用自签
 
-- 说人话，就是你所有的访问数据都会被上传到云端进行审查，从底层屏蔽手机厂商认为不安全的页面。据说是可以关闭，但是上传数据是少不了的，猜测可能是审查但是并不阻止你访问。但是这不代表日后不秋后算账。我们的建议是不要使用鸿蒙手机来FQ，如果你认为自己的安全与隐私不重要，那么可以继续安装。
+##### 第一步：准备工作
 
-### 再次提示⚠️
+电脑一台（Windows 或 Mac 均可）。
 
-- 默认不允许侧载。需要安装auto-installer：
+数据线：将手机连接到电脑。
 
-- Auto installer(小白鸿蒙开源自助餐)是一款在 Harmony Next 安装任意hap应用的工具。登录华为账号, 开启手机开发者模式和usb调试，即可安装任意hap应用 (tip: 必须保持开发者模式才能正常使用哦)。
+开启手机开发者模式：
 
-- 不能保证未来还可以继续侧载应用。
+进入 设置 -> 关于手机 -> 连续快速点击 软件版本 7次，直到提示“您已处于开发者模式”。
 
-- 再次强调，十分不建议使用鸿蒙手机来FQ
+返回 设置 -> 系统 -> 开发者选项 -> 开启 USB调试。
 
-### 下载软件
+##### 第二步：安装工具与侧载
 
-| Auto installer(Windows安装) | Clash meta |
-| ------ | ------ |
-| [点我下载](https://file.o4o.win/clash/harmony/AutoInstaller.Setup.1.2.0.exe) | [点我下载](https://file.o4o.win/clash/harmony/entry-default-signed.hap) |
-| [点我下载](https://dl.fastconnect.cc/https://github.com/likuai2010/auto-installer/releases/download/1.2.0/AutoInstaller.Setup.1.2.0.exe) | [点我下载](https://fajskdasl.lanzouv.com/iXXJJ2gxejsd) |
+普通用户推荐使用社区开发的自动化安装工具，它能自动帮你申请免费的个人开发者证书并签名。
 
-### 安装软件
+下载安装器：
+在电脑上搜索并下载 "HarmonyOS Next Auto Installer"
 
-1. 下载auto-installer
-2. 下载特殊鸿蒙版本clash-meta
-3. 打开开发者模式，安装clash,连续点击版本号——进入开发者模式——找到开发者选项——usb调试打开——无限调试打开——输入手机的ip地址——直接拖拽hap包到电脑软件中——登录华为账号
-4. 最后一次强调，十分不建议使用鸿蒙手机来FQ
+[HarmonyOS Next Auto Installer项目地址](https://github.com/likuai2010/auto-installer)
 
-### 1. 先购买一个套餐
+| window64 | macos-arm64| macos-intel |
+| ------ | ------ | ------ |
+| [下载](https://github.com/likuai2010/auto-installer/releases/download/2.4.0/windows-x64-2.4.zip) | [下载](https://github.com/likuai2010/auto-installer/releases/download/2.4.0/macos-arm64-2.4.zip) | [下载](https://github.com/likuai2010/auto-installer/releases/download/2.4.0/macos-x64-2.4.zip) |
 
-### 2. 获取clash订阅链接
-> 在`产品管理 > 管理`里面找到`clash订阅链接`复制，可以点击`点我复制`按钮，安装好软件也可以`一键导入clash`。
+连接手机：
+打开安装器，通过数据线连接手机，手机上会弹出“允许USB调试”的弹窗，点击允许。
 
-### 3. 具体使用步骤
+登录华为账号：
+工具通常需要你登录华为账号（为了申请临时的调试证书）。
 
-![](/img/android/1.png)
-![](/img/android/2.png)
-![](/img/android/3.png)
+一键安装：
+将你的 `ClashNEXT-LTS-1.5.1.hap` 文件直接拖入安装器窗口。
 
-> 在`产品管理 > 管理`里面找到`clash订阅链接`复制，可以点击`点我复制`按钮。
+点击安装/签名。工具会自动完成签名并把应用推送到你的手机上
 
-![](/img/android/41.png)
-![](/img/android/5.png)
-![](/img/android/6.png)
-![](/img/android/7.png)
-![](/img/android/8.png)
-![](/img/android/9.png)
+### 2、获取订阅
 
-> 启动后，可以点击`代理`进去选择节点
+#### 打开产品管理用户中心，前往套餐详情页复制`clash订阅链接`
 
-![](/img/android/10.png)
+> 在`产品管理 > 管理`里面找到`clash订阅链接`复制，直接点击`点我复制`按钮。
 
-!> 测试延迟仅供检验是否连通，不能用作速度快慢的参考，快慢要以你实际体验为准，同一个线路不同运营商不同地区速度都不一样，建议测试不同的线路对比。
+![](/img2/mac/m2.png)
 
-![](/img/android/11.png)
+### 3、导入订阅
 
-> 切换规则模式和全局模式方法
+1. 粘贴订阅地址
+2. 点击下载订阅
 
-![](/img/android/12.png)
-![](/img/android/13.png)
+![](/img/harmony/1.png)
+
+### 4、开启代理
+
+- 点击开启代理即可
+
+![](/img/harmony/2.png)
 
 #### 规则模式和全局模式的区别
 
