@@ -23,7 +23,7 @@ Clash Box 下载
 
 ### ⚠️前情提示
 
-Clash box据说在华为应用市场-港区上线了，没有华为手机无法验证，怎么切换到港区，需要您自己Google。
+Clash box据说在华为应用市场-港区上线了，[参考视频](https://www.bilibili.com/video/BV1WSjuzZEix/?vd_source=0931ffea550684a16e156545a9fd1d35) 没有华为手机无法验证，怎么切换到港区，需要您自己Google。
 
 本文提供的 Clash Box 并非完全开源而且仅提供.hap文件，.hap文件不能直接安装在鸿蒙系统上，如果您没有自签证书的能力，建议您不要选择用它，可以通过卓易通安装Android应用，达到同样的上网效果。[如何使用桌易通安装Clash Box](https://clash.guide/zyt-clash.html#%E5%8D%93%E6%98%93%E9%80%9A%E5%AE%89%E8%A3%85apk%E5%A4%B1%E8%B4%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
 
