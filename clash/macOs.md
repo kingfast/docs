@@ -45,7 +45,7 @@ sudo spctl --master-disable
 | [2.2.2版本M芯片备用下载](https://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载](https://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_x64.dmg) |
 | [2.2.2版本M芯片备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_x64.dmg) |
 | [2.2.2版本M芯片备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64.dmg) | 
-| [2.2.2版本M芯片备用下载3](https://github.moeyy.xyz/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载3](https://github.moeyy.xyz/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64.dmg) | 
+| [2.2.2版本M芯片备用下载3](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载3](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64.dmg) | 
 | [1.7.7版本M芯片下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [1.7.7版本Intel下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
 | [1.7.7版本M芯片备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [1.7.7版本Intel下载备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
 
