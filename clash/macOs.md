@@ -34,20 +34,22 @@ sudo spctl --master-disable
 
 #### 2、下载客户端版本安装
 
-**Clash Verge软件版本2.2.2** (如果出现问题回退到1.7.7版本)
+**Clash Verge软件版本2.3.1** (如果出现问题回退到2.2.2版本)
 
-2.2.2版本，开启`统一延迟`后，测试的延迟更接近真实的延迟，更准确。
+2.3.1版本，开启`统一延迟`后，测试的延迟更接近真实的延迟，更准确。
 
-> 客户端下载地址（2025.4更新）:
+> 客户端下载地址（2026.1更新）:
 
 | Mac M芯片 | Mac Intel芯片 |
 | ------ | ------ |
+| [2.3.1版本M芯片备用下载](https://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.3.1_aarch64.dmg) | [2.3.1版本Intel下载备用下载](https://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.3.1_x64.dmg) |
+| [2.3.1版本M芯片备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.3.1_aarch64.dmg) | [2.3.1版本Intel下载备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.3.1_x64.dmg) |
+| [2.3.1版本M芯片备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.1/Clash.Verge_2.3.1_aarch64.dmg) | [2.3.1版本Intel下载备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.1/Clash.Verge_2.3.1_x64.dmg) | 
+| [2.3.1版本M芯片备用下载3](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.1/Clash.Verge_2.3.1_aarch64.dmg) | [2.3.1版本Intel下载备用下载3](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.3.1/Clash.Verge_2.3.1_x64.dmg) | 
 | [2.2.2版本M芯片备用下载](https://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载](https://file2.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_x64.dmg) |
 | [2.2.2版本M芯片备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_2.2.2_x64.dmg) |
 | [2.2.2版本M芯片备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64.dmg) | 
 | [2.2.2版本M芯片备用下载3](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_aarch64.dmg) | [2.2.2版本Intel下载备用下载3](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.2.2/Clash.Verge_2.2.2_x64.dmg) | 
-| [1.7.7版本M芯片下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [1.7.7版本Intel下载](https://file.o4o.win/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
-| [1.7.7版本M芯片备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_aarch64.dmg) | [1.7.7版本Intel下载备用下载1](https://file.helloking.top/clash/clash-verge/macOs/Clash.Verge_1.7.7_x64.dmg) |
 
 如果是带刘海的屏幕的MacBook，`可能`打开之后，看不到顶部的图标，可以安装`Bartender`软件就能看到了
 
