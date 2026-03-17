@@ -7,16 +7,16 @@
 
 ### 1、下载客户端APP
 
-> ClashMetaForAndroid客户端下载地址(2025.9更新): 
+> ClashMetaForAndroid客户端下载地址(2026.3更新): 
 
 ![](/img/android/clash_meta.png)
 
-| 版本2.11.16 |
+| 版本2.11.24 |
 | ------ |
-| [下载地址2](https://file.helloking.top/clash/android/cmfa-2.11.16-meta-universal-release.apk) |
-| [下载地址3](https://file2.helloking.top/clash/android/cmfa-2.11.16-meta-universal-release.apk) |
-| [下载地址4](https://gh-proxy.com/github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.16/cmfa-2.11.16-meta-universal-release.apk) |
-| [下载地址5](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.16/cmfa-2.11.16-meta-universal-release.apk) |
+| [下载地址2](https://file.helloking.top/clash/android/cmfa-2.11.24-meta-universal-release.apk) |
+| [下载地址3](https://file2.helloking.top/clash/android/cmfa-2.11.24-meta-universal-release.apk) |
+| [下载地址4](https://gh-proxy.com/github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk) |
+| [下载地址5](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.24/cmfa-2.11.24-meta-universal-release.apk) |
 
 https://github.com/MetaCubeX/ClashMetaForAndroid/releases/ （github最新版本，不建议，不保证能用）
 
