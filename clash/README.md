@@ -4,11 +4,12 @@
 
 !> 必须使用我们教程提供的软件版本，降低问题出现概率。
 
-- [windows教程](/clash/windows.md)
-- [macOs教程](/clash/macOs.md)
-- [ios（iPhone、iPad）教程](/clash/ios.md)
-- [android教程](/clash/android.md)
+- [windows](/clash/windows.md)
+- [macOs](/clash/macOs.md)
+- [ios（iPhone、iPad）](/clash/ios.md)
+- [android](/clash/android.md)
 - [鸿蒙Next手机平板(Harmony Next)](/clash/harmony.md)
-- [linux教程](/clash/linux.md)
+- [linux](/clash/linux.md)
+- [路由器](/clash/router.md)
 
 > 对教程有疑问或者建议请去官网提交工单。
