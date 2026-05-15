@@ -1,4 +1,4 @@
-# clash订阅macOs使用教程
+# clash订阅macOS使用教程
 
 ## 一字不漏的看完下面文字，按教程操作
 
@@ -117,7 +117,7 @@ sudo spctl --master-disable
 
 <!-- 如果以上步骤操作完不行，参考下面
 
-MacOS用户如需使用tun模式(代理所有流量)，需执行以下命令赋予meta内核权限：
+macOS用户如需使用tun模式(代理所有流量)，需执行以下命令赋予meta内核权限：
 ```
 sudo chown root:admin /Applications/Clash\ Verge.app/Contents/MacOS/clash-meta
 sudo chmod +sx /Applications/Clash\ Verge.app/Contents/MacOS/clash-meta

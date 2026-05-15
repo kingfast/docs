@@ -1,11 +1,11 @@
 # clash订阅使用教程
 
-!> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能查过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。可以打开https://time.is 对比一下时间。
+!> v2ray 对于时间有比较严格的要求，客户端与服务端时间相差不能超过1分钟，否则节点全部超时，请置系统时间同Internet时间同步，以确保不会遇到该问题。可以打开https://time.is 对比一下时间。
 
 !> 必须使用我们教程提供的软件版本，降低问题出现概率。
 
 - [windows](/clash/windows.md)
-- [macOs](/clash/macOs.md)
+- [macOS](/clash/macOS.md)
 - [ios（iPhone、iPad）](/clash/ios.md)
 - [android](/clash/android.md)
 - [鸿蒙Next手机平板(Harmony Next)](/clash/harmony.md)
