@@ -17,7 +17,7 @@
 - https://github.com/GUI-for-Cores/GUI.for.Clash
 
 ## clash命令行版本配合web ui教程
-我们直接使用Clash Core，首先到Github下载Clash Core（Clash作者已经提供了各个平台的预编译文件），`选择自己对应的平台下载就行`，linux一般下载`mihomo-linux-amd64-xxx`。这里我使用的是`mihomo-darwin-arm64-v1.18.9`，以macos 为例子。下载解压出来你会得到一个`mihomo-darwin-arm64-v1.18.9`的二进制文件，为了便于接下来的操作我们把他重命名为`clash_meta`。
+我们直接使用Clash Core，首先到Github下载Clash Core（Clash作者已经提供了各个平台的预编译文件），`选择自己对应的平台下载就行`，linux一般下载`mihomo-linux-amd64-xxx`。这里我使用的是`mihomo-darwin-arm64-v1.19.24`，以macos 为例子。下载解压出来你会得到一个`mihomo-darwin-arm64-v1.19.24`的二进制文件，为了便于接下来的操作我们把他重命名为`clash_meta`。
 
 <!-- > 下载地址：https://github.com/Dreamacro/clash/releases -->
 
@@ -29,19 +29,19 @@
 
 ```
 # macos arm64
-wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.9/mihomo-darwin-arm64-v1.18.9.gz
+wget https://github.com/MetaCubeX/mihomo/releases/download/v1.19.24/mihomo-darwin-arm64-v1.19.24.gz
 
 # linux amd64 x86
-wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.9/mihomo-linux-amd64-v1.18.9.gz
+wget https://github.com/MetaCubeX/mihomo/releases/download/v1.19.24/mihomo-linux-amd64-v1.19.24.gz
 
 # linux arm64
-wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.9/mihomo-linux-arm64-v1.18.9.gz
+wget https://github.com/MetaCubeX/mihomo/releases/download/v1.19.24/mihomo-linux-arm64-v1.19.24.gz
 ```
 
 解压并且重命名
 
 ```
-gunzip mihomo-darwin-arm64-v1.18.9.gz && mv mihomo-darwin-arm64-v1.18.9 clash_meta
+gunzip mihomo-darwin-arm64-v1.19.24.gz && mv mihomo-darwin-arm64-v1.19.24 clash_meta
 ```
 
 赋予执行权限
