@@ -45,7 +45,13 @@ const getFixedUrl = (req) => {
  *  waitUntil(): activating ====> activated
  */
 self.addEventListener('activate', event => {
-  event.waitUntil(self.clients.claim())
+  event.waitUntil(
+    caches.keys().then(keys => {
+      return Promise.all(
+        keys.filter(key => key !== RUNTIME).map(key => caches.delete(key))
+      )
+    }).then(() => self.clients.claim())
+  )
 })
 
 /**
