@@ -7,18 +7,18 @@
 
 ### 1、下载客户端APP
 
-> Bettbox客户端下载地址(2026.5更新): 
+> FIClash客户端下载地址(2026.1更新): 
 
-![](/img2/bettbox/bettbox.png)
+![](/img2/FIClash/FIClash.png)
 
-| 版本1.17.8
+| 版本0.8.91 |
 | ------ |
-| [下载地址2](https://file.helloking.top/clash/android/Bettbox-1.17.8-android-arm64-v8a.apk) |
-| [下载地址3](https://file2.helloking.top/clash/android/Bettbox-1.17.8-android-arm64-v8a.apk) |
-| [下载地址4](https://gh-proxy.com/github.com/appshubcc/Bettbox/releases/download/v1.17.8/Bettbox-1.17.8-android-arm64-v8a.apk) |
-| [下载地址5](https://github.com/appshubcc/Bettbox/releases/download/v1.17.8/Bettbox-1.17.8-android-arm64-v8a.apk) |
+| [下载地址2](https://file.helloking.top/clash/android/FlClash-0.8.91-android-arm64-v8a.apk) |
+| [下载地址3](https://file2.helloking.top/clash/android/FlClash-0.8.91-android-arm64-v8a.apk) |
+| [下载地址4](https://gh-proxy.com/github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-android-arm64-v8a.apk) |
+| [下载地址5](https://github.com/chen08209/FlClash/releases/download/v0.8.91/FlClash-0.8.91-android-arm64-v8a.apk) |
 
-https://github.com/appshubcc/Bettbox/releases/ （github最新版本，不建议，不保证能用）
+https://github.com/chen08209/FlClash/releases （github最新版本，不建议，不保证能用）
 
 经测试，某些安卓手机自带浏览器可能下载上面软件下不动，去应用商店下载`夸克`，然后用夸克浏览器就可以下载了。
 
@@ -27,9 +27,6 @@ https://github.com/appshubcc/Bettbox/releases/ （github最新版本，不建议
 <!-- `hiddify`也完美支持我们clash订阅，也可以下载尝试，[下载地址](https://github.com/hiddify/hiddify-next/releases/) -->
 
 [ClashMetaForAndroid教程](/clash/clash_meta.md)
-
-[Flclash教程](/clash/flclash.md)
-
 
 ---
 
