@@ -22,6 +22,7 @@
 
 - **步骤1：** 10多分钟注册个美区（选免税州）账号，然后去充值3美元，然后购买app。(推荐自己注册，自行充值，最稳妥，需要点时间，但值得，这是上策) 
 
+    - [2026注册视频教程](https://www.bilibili.com/video/BV1k5L26VEXf)
     - [注册教程 (推荐)](/others/appleid.md) [注册教程1](https://blog.qust.me/appleid2023) [注册教程2](https://51.ruyo.net/18218.html)
     - [提示无法创建账号解决办法](https://www.bilibili.com/video/BV12w4m1U7Wm)
 
