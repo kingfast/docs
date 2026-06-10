@@ -112,6 +112,8 @@ sudo spctl --master-disable
 
 !> 一般情况下，不需要使用Tun模式，开启的话，用规则模式也没问题，用全局模式流量用得很快，而且影响国内网站速度。一般在你需要终端需要走代理，或者特定客户端软件如（WhatsApp电脑端）也需要走代理的情况下才使用。
 
+[系统代理和Tun模式的区别](https://www.bilibili.com/video/BV1PJEx6cEjj/)
+
 ![](/img2/mac/m6.png)
 ![](/img2/mac/tun.png)
 
