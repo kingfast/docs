@@ -13,3 +13,4 @@
 - https://ccbaohe.com/appleID/
 - https://id.bocchi.vip/
 - https://js.jiesuo.one/h/4b1b22404b484cf2
+- https://appleid-share.bitmusthk.com/
