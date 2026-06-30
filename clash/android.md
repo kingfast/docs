@@ -18,7 +18,7 @@
 | [下载地址4](https://gh-proxy.com/github.com/appshubcc/Bettbox/releases/download/v1.17.8/Bettbox-1.17.8-android-arm64-v8a.apk) |
 | [下载地址5](https://github.com/appshubcc/Bettbox/releases/download/v1.17.8/Bettbox-1.17.8-android-arm64-v8a.apk) |
 
-https://github.com/appshubcc/Bettbox/releases/ （github最新版本，不建议，不保证能用）
+<!-- https://github.com/appshubcc/Bettbox/releases/ （github最新版本，不建议，不保证能用） -->
 
 经测试，某些安卓手机自带浏览器可能下载上面软件下不动，去应用商店下载`夸克`，然后用夸克浏览器就可以下载了。
 
