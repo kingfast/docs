@@ -12,7 +12,7 @@
 
 > ios客户端下载地址: 
 
-用美区ios账号搜索`sing-box`免费下载，获取美区账号教程看[这里](/ssr/ios.md)
+用美区ios账号搜索`sing-box`免费下载，获取美区账号教程看[这里](/clash/ios.md)
 
 [美区AppStore地址](https://apps.apple.com/us/app/sing-box-vt/id6673731168)
 
