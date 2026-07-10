@@ -3,11 +3,24 @@ Windows 7 无法使用
 
 ### 解决方案：
 
-由于Win7系统是个17年前的古老系统，很多软件已经不支持了，目前只有这个软件支持，建议尽快升级到Win11。。
 
-使用下面这个clash版本`clash-party`，如果无法安装，截图报错界面，提交工单
+使用下面这个clash版本`mihono-party`，如果无法安装，截图报错界面，提交工单
 
-[clash-party简易使用教程](/clash/clash-party.md)
+
+win7系统64位下载地址：
+https://file2.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-x64-setup.exe
+
+win7系统32位下载地址：
+https://file2.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-ia32-setup.exe
+
+
+win7系统64位备用下载地址：
+https://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-x64-setup.exe
+
+win7系统32位备用下载地址：
+https://file.helloking.top/clash/mihono-party/windows/mihomo-party-win7-1.6.0-ia32-setup.exe
+
+[mihomo-party简易使用教程](/clash/mihomo.md)
 
 
 <!-- ### 解决方案2(复杂，建议看上面方案1)：
