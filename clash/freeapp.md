@@ -4,11 +4,11 @@
 
 ## 其他免费应用
 
-### Clash Plus（推荐）
+<!-- ### Clash Plus（推荐）
 
 界面简洁，操作直观。
 
-[Clash Plus 使用教程](/others/clashplus.md)
+[Clash Plus 使用教程](/others/clashplus.md) -->
 
 ### Karing
 
