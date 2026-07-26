@@ -968,8 +968,9 @@ body[data-page="README.md"] .markdown-section > * {
     display: none;
   }
 
-  .sidebar {
+  body .sidebar {
     left: calc(var(--sidebar-width) * -1);
+    padding-top: calc(max(12px, env(safe-area-inset-top)) + 44px);
     z-index: 30;
   }
 
