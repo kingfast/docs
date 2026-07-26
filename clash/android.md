@@ -11,7 +11,7 @@
 
 ![](/img2/bettbox/bettbox.png)
 
-| 版本1.17.8
+| 版本1.17.8 |
 | ------ |
 | [下载地址2](https://file.helloking.top/clash/android/Bettbox-1.17.8-android-arm64-v8a.apk) |
 | [下载地址3](https://file2.helloking.top/clash/android/Bettbox-1.17.8-android-arm64-v8a.apk) |
@@ -48,7 +48,6 @@
 
 ![](/img2/FIClash/f4.png)
 ![](/img2/FIClash/f5.png)
-![](/img2/FIClash/f6.png)
 ![](/img2/FIClash/f7.png)
 
 > 启动后，可以点击`代理`进去选择节点

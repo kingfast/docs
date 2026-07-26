@@ -450,6 +450,7 @@ input:focus-visible {
   margin: 0 auto;
   max-width: calc(var(--content-width) + 112px);
   min-height: calc(100vh - var(--header-height) - 100px);
+  overflow-wrap: anywhere;
   padding: 54px 56px 72px;
 }
 
@@ -1077,11 +1078,6 @@ body[data-page="README.md"] .markdown-section > * {
   .markdown-section p,
   .markdown-section li {
     font-size: 16px;
-  }
-
-  .markdown-section table {
-    display: block;
-    overflow-x: auto;
   }
 
   .home-hero {

@@ -25,7 +25,7 @@ Clash Box 下载与安装教程
 
 Clash Box 下载
 
-| 平台 | 版本 | 代理加速 | GitHub直连 | 备用地址
+| 平台 | 版本 | 代理加速 | GitHub直连 | 备用地址 |
 | ------ | ------ | ------ | ------ |------ |
 | HarmonyOS | 1.5.1 | [下载](https://github.clash.guide/clash-clients/ClashNEXT-LTS-1.5.1.hap) | [下载](https://github.com/xiaobaigroup/ClashBox/releases/download/1.5.1/ClashNEXT-LTS-1.5.1.hap) | [下载](https://file.o4o.win/clash/harmony/ClashNEXT-LTS-1.5.1.hap) |
 

@@ -25,12 +25,12 @@ https://www.zybuluo.com/hellozubuluo/note/1728024 -->
 
 > 客户端下载地址（2026.5更新）:
 
-| windows64位 | windows32位
+| windows64位 | windows32位 |
 | ------ | ------ |
 | [2.5.1版本64位备用下载](https://file2.helloking.top/clash/clash-verge/windows/Clash.Verge_2.5.1_x64-setup.exe) | - | 
 | [2.5.1版本64位备用下载1](https://file.helloking.top/clash/clash-verge/windows/Clash.Verge_2.5.1_x64-setup.exe) | - | 
 | [2.5.1版本64位备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe) | - |
-| [2.5.1版本64位备用下载3](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe) | -
+| [2.5.1版本64位备用下载3](https://hk.gh-proxy.org/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe) | - |
 | [2.1.2版本64位备用下载](https://file2.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.2_x64-setup.exe) | [2.1.2版本32位备用下载](https://file2.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.2_x86_fixed_webview2-setup.exe) | 
 | [2.1.2版本64位备用下载1](https://file.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.2_x64-setup.exe) | [2.1.2版本32位备用下载1](https://file.helloking.top/clash/clash-verge/windows/Clash.Verge_2.1.2_x86_fixed_webview2-setup.exe) | 
 | [2.1.2版本64位备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe) | [2.1.2版本32位备用下载2](https://gh-proxy.com/github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x86_fixed_webview2-setup.exe) |
