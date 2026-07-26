@@ -1,28 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>kingfast使用教程</title>
+  <title>Kingfast 使用教程</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Kingfast 新手使用教程：按设备选择客户端，跟着步骤完成下载、导入订阅和连接。">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="./favicon.ico">
-  <!-- <link rel="stylesheet" href="https://unpkg.com/docsify/lib/themes/vue.css"> -->
-  <!-- <link href="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/themes/vue.css" rel="stylesheet"> -->
-  <!-- <link href="https://cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"rel="stylesheet"/> -->
   <link href="./css/vue.css" rel="stylesheet">
-  <link href="./css/style.min.css"rel="stylesheet"/>
-  <style>
-    /* a[title='站长统计']{
-      visibility: hidden;
-    } */
-  </style>
+  <link href="./css/tutorial-theme.css?v=20260727-5" rel="stylesheet">
 </head>
 <body>
-  <div id="app">加载中...</div>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <div id="app">
+    <div class="loading-state" role="status">
+      <span class="loading-state__mark">K</span>
+      <span>正在打开教程…</span>
+    </div>
+  </div>
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('./sw/sw.js')
@@ -31,9 +29,15 @@
   <script>
     window.$docsify = {
       loadSidebar: true,
+      loadNavbar: true,
       subMaxLevel: 2,
-      name: 'kingfast使用教程',
+      maxLevel: 4,
+      name: 'Kingfast 教程',
+      nameLink: '/',
       repo: '',
+      themeColor: '#2563eb',
+      auto2top: true,
+      mergeNavbar: true,
       cache: {
         maxAge: 0
       },
@@ -42,12 +46,11 @@
         'Pragma': 'no-cache',
         'Expires': '0'
       },
-      // themeColor: "#42b983",
       scrollToTop: {
         auto: true,
-        text: 'Top',
-        right: 15,
-        bottom: 15,
+        text: '↑',
+        right: 20,
+        bottom: 24,
         offset: 500
       },
       copyCode: {
@@ -55,37 +58,21 @@
         errorText  : '复制失败',
         successText: '复制成功'
       },
-      darkMode: {
-        dark: {
-          background: "#1c2022",
-          toggleBtnBg: "#34495e",
-          textColor: "#b4b4b4"
-        },
-        light: {
-          // background: "white",
-          toggleBtnBg: '#42b983',
-          // toggleBtnBg: "var(--theme-color)",
-          // textColor: "var(--theme-color)"
-        }
-      },
       search: {
-        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-        paths: [], // or 'auto'
-        placeholder: 'search'
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '搜索教程或问题',
+        noData: '没有找到相关内容',
+        depth: 3,
+        hideOtherSidebarContent: false
       }
     }
   </script>
-  <!-- <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script> -->
-  <!-- <script src="https://unpkg.com/docsify/lib/plugins/zoom-image.js"></script> -->
-  <!-- <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/docsify.min.js"></script> -->
-  <!-- <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/plugins/zoom-image.min.js"></script> -->
-  <!-- <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/plugins/search.min.js"></script> -->
+  <script src="./js/tutorial-theme.js?v=20260727-4"></script>
   <script src="./js/docsify.min.js"></script>
   <script src="./js/zoom-image.min.js"></script>
   <script src="./js/search.min.js"></script>
   <script src="./js/docsify-scroll-to-top.min.js"></script>
   <script src="./js/docsify-copy-code.min.js"></script>
-  <script src="./js/index.min.js"></script>
-  <!-- <script src="https://cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script> -->
 </body>
 </html>
