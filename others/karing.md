@@ -23,8 +23,8 @@
 
 ### 3、具体使用步骤：
 
-![](/img/karing/1.png)
+![](/img/karing/k1.png)
 ![](/img/karing/2.png)
 ![](/img/karing/3.png)
-![](/img/karing/4.png)
+![](/img/karing/k3.png)
 
