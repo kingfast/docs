@@ -28,6 +28,8 @@
 
 ![](/img/omega/c5.png)
 
+![](/img/omega/p1.png)
+
 #### 6、切换到proxy模式
 ![](/img/omega/c6.png)
 
