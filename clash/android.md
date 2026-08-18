@@ -7,16 +7,16 @@
 
 ### 1、下载客户端APP
 
-> Bettbox客户端下载地址(2026.5更新): 
+> Bettbox客户端下载地址(2026.8更新): 
 
 ![](/img2/bettbox/bettbox.png)
 
-| 版本1.17.8 |
+| 版本1.18.10 |
 | ------ |
-| [下载地址2](https://file.helloking.top/clash/android/Bettbox-1.17.8-android-arm64-v8a.apk) |
-| [下载地址3](https://file2.helloking.top/clash/android/Bettbox-1.17.8-android-arm64-v8a.apk) |
-| [下载地址4](https://gh-proxy.com/github.com/appshubcc/Bettbox/releases/download/v1.17.8/Bettbox-1.17.8-android-arm64-v8a.apk) |
-| [下载地址5](https://github.com/appshubcc/Bettbox/releases/download/v1.17.8/Bettbox-1.17.8-android-arm64-v8a.apk) |
+| [下载地址2](https://file.helloking.top/clash/android/Bettbox-1.18.10-android-arm64-v8a.apk) |
+| [下载地址3](https://file2.helloking.top/clash/android/Bettbox-1.18.10-android-arm64-v8a.apk) |
+| [下载地址4](https://gh-proxy.com/github.com/appshubcc/Bettbox/releases/download/v1.18.10/Bettbox-1.18.10-android-arm64-v8a.apk) |
+| [下载地址5](https://github.com/appshubcc/Bettbox/releases/download/v1.18.10/Bettbox-1.18.10-android-arm64-v8a.apk) |
 
 <!-- https://github.com/appshubcc/Bettbox/releases/ （github最新版本，不建议，不保证能用） -->
 
